@@ -17,8 +17,8 @@ class miThread(Thread):
 
     def run(self):
         for i in range(self.c1):
-            d = sqrt(tan(arctan(tan(arctan(tan(arctan(tan(arctan(tan(arctan(123456789.123456789)))))))))))
-            #d = (123456789.123456789)**9.123456789
+            #d = sqrt(tan(arctan(tan(arctan(tan(arctan(tan(arctan(tan(arctan(123456789.123456789)))))))))))
+            d = (123456789.123456789)**9.123456789
 
 
 hilos = []

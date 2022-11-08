@@ -1,5 +1,5 @@
 #!/bin/bash
-for (( i=1; i<=20; i++))
+for (( i=1; i<=40; i++))
 do
 times=()
 for (( k=1; k<=200; k++))
@@ -14,6 +14,6 @@ len="$(expr ${#times[@]} - 1)"
 times=("${times[@]::$len}" "${times[-1]::-1}")
 
 
-echo "${times[@]}" >> times.txt
+echo "${times[@]}" >> times2.txt
 
 done

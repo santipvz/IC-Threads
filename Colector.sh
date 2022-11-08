@@ -1,5 +1,5 @@
 #!/bin/bash
-for (( i=1; i<=40; i++))
+for (( i=1; i<=20; i++))
 do
 times=()
 for (( k=1; k<=200; k++))

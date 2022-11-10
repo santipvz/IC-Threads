@@ -1,6 +1,6 @@
 #!/bin/bash
-for (( i=1; i<=20; i++))
-do
+#for (( i=1; i<=20; i++))
+#do
 times=()
 for (( k=1; k<=200; k++))
 do
@@ -16,4 +16,4 @@ times=("${times[@]::$len}" "${times[-1]::-1}")
 
 echo "${times[@]}" >> times2.txt
 
-done
+#done

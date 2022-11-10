@@ -2,10 +2,10 @@ import time
 from threading import Thread
 from numpy import tan
 from numpy import arctan
-from numpy import sqrt
+from numpy import cbrt
 import sys
 
-n = 130
+n = 16
 
 if len(sys.argv) > 1:
     n = int(sys.argv[1])
@@ -17,8 +17,8 @@ class miThread(Thread):
 
     def run(self):
         for i in range(self.c1):
-            #d = sqrt(tan(arctan(tan(arctan(tan(arctan(tan(arctan(tan(arctan(123456789.123456789)))))))))))
-            d = (123456789.123456789)**9.123456789
+            d = cbrt(tan(arctan(tan(arctan(tan(arctan(tan(arctan(tan(arctan(123456789.123456789)))))))))))
+            #d = (123456789.123456789)**9.123456789
 
 
 hilos = []

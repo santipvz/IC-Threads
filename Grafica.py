@@ -28,8 +28,8 @@ for i in range(minum):
 
 plt.title('Texto va aquí', fontsize=12)
 plt.grid()
-for i in times:
-    plt.scatter([x+1 for x in range(minum)], i, s=10, c='g')
+#for i in times:
+#    plt.scatter([x+1 for x in range(minum)], i, s=10, c='g')
 plt.scatter([x+1 for x in range(minum)], averages, s=10, c='r')
 plt.plot([x+1 for x in range(minum)],averages)
 

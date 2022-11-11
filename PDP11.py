@@ -1,8 +1,7 @@
 import time
 from threading import Thread
-from numpy import tan
-from numpy import arctan
-from numpy import cbrt
+from math import tan
+from math import atan
 import sys
 
 n = 16
@@ -11,15 +10,14 @@ if len(sys.argv) > 1:
     n = int(sys.argv[1])
 
 class miThread(Thread):
-    
-    def config(self, x):
-        self.c1 = x
+    def __init__(self, x):
+        Thread.__init__(self)
+        self.nr = x
 
     def run(self):
-        for i in range(self.c1):
-            d = cbrt(tan(arctan(tan(arctan(tan(arctan(tan(arctan(tan(arctan(123456789.123456789)))))))))))
+        for i in range(self.nr):
+            d = (tan(atan(tan(atan(tan(atan(tan(atan(tan(atan(123456789.123456789)))))))))))**(1/3)
             #d = (123456789.123456789)**9.123456789
-
 
 hilos = []
 # Quotient
@@ -31,11 +29,10 @@ for i in range(n):
     # nr is the number of repetitions
     nr = c
     if r > 0:
-        # nr varies accordind to de module of the division
+        # nr varies accordind to the module of the division
         nr+=1
         r-=1
-    mT = miThread()
-    mT.config(nr)
+    mT = miThread(nr)
     hilos.append(mT)
 
 start = time.time()

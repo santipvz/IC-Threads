@@ -31,8 +31,8 @@ plt.grid()
 plt.scatter([x+1 for x in range(minum)], averages, s=10, c='r')
 plt.plot([x+1 for x in range(minum)],averages)
 
-for i in times:
-    plt.scatter([x+1 for x in range(minum)], i, s=10, c='g')
+#for i in times:
+#    plt.scatter([x+1 for x in range(minum)], i, s=10, c='g')
 
 plt.xlabel('Thread')
 plt.ylabel('Time')

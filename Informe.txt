@@ -1,0 +1,1 @@
+Usamos el módulo math por su diferencia de tiempo con el de numpy. Hacer el cálculo intensivo sin hilos un millón de veces math tardaba menos de 1 segundo y numpy tardaba 9 segundo.

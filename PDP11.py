@@ -1,4 +1,4 @@
-from time import time
+from time import time_ns
 from threading import Thread
 from math import tan
 from math import atan
@@ -34,7 +34,7 @@ for i in range(n):
     mT = miThread(nr)
     hilos.append(mT)
 
-start = time()
+start = time_ns()
 
 for hilo in hilos:
     hilo.start()
@@ -42,6 +42,6 @@ for hilo in hilos:
 for hilo in hilos:
     hilo.join()
 
-end = time()
+end = time_ns()
 print(f"{end-start}")
 

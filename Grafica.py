@@ -28,12 +28,12 @@ for i in range(minum):
 # We show the graph
 plt.title('Texto va aquí', fontsize=12)
 plt.grid()
-plt.scatter([x+1 for x in range(minum)], averages, s=10, c='r')
-plt.plot([x+1 for x in range(minum)],averages)
+plt.scatter([x+1 for x in range(minum)], [x*(10**-9) for x in averages], s=10, c='r')
+plt.plot([x+1 for x in range(minum)],[x*(10**-9) for x in averages])
 
 #for i in times:
 #    plt.scatter([x+1 for x in range(minum)], i, s=10, c='g')
 
 plt.xlabel('Thread')
-plt.ylabel('Time')
+plt.ylabel('Time (s)')
 plt.show()

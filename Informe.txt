@@ -5,9 +5,34 @@ En primer lugar tenemos el código en python de cálculo intensivo (PDP11.py):
 	Este código recive como argumento el número de hilos con el módulo sys. Como el primer argumento es el nombre del programa cogemos el segundo argumento en una condicional cuándo hay más de un argumento.
     
 	Definimos una clase llamada miThread que hereda de Thread. Recibe un argumento, que es el número de repeticiones, cuando se inicia la clase. Lo hacemos de esta manera porque el argumento va cambiando de valor para tener en cuenta el resto de la división entre un millón y el número de hilos. Este cálculo se hace con el cociente (c), el resto (r) y el número de repeticiones (nr). Nos aseguramos de repartir el resto para que las distintas repeticiones con distinto número de hilos hagan siempre un millón de iteraciones y no menos. Así eliminamos un pequeño error.
+	
+	Medimos el tiempo en nanosegundos para tener más precisión.
 
 	El cálculo intensivo es la raíz cúbica de aplicar la tangente y la arcotangente 5 veces a 123456789.123456789. Cada hilo hace este cálculo nr veces. Usamos el módulo math por su diferencia de tiempo con el de numpy. Math tardaba menos de 1 segundo en hacer el cálculo intensivo sin hilos un millón de veces y numpy tardaba 9 segundos.
 	
 	Todos los hilos con distinto número de repeticiones se meten en una lista llamada hilos. Se guarda el tiempo antes de iniciar los hilos en un bucle con .start() y se espera a su ejecución con un bucle con .join() y se mide el final. Se imprime la diferencia entre el final y el incio porque esta es la manera de recibirlo que tiene Colector.sh el archivo de bash.
 	
 	
+En segundo lugar tenemos el código en bash que recoge y guarda los datos (Colector.sh):
+
+	El programa está en un bucle de 5 repeticiones para hacer la media de las repeticiones para compensar la posible anomalía de algún tiempo.
+	
+	El segundo bucle le va pasando el valor de k a PDP11.py que es el número de hilos. El tiempo que devuelve PDP11.py se añade a la lista de tiempos con una coma. Cada lista de tiempos se formatea para que haya una coma entre elementos y no haya una al final. Se añade a una nueva linea del archivo times.txt y el array times se vacía. El programa también enseña el tiempo con el número hilos y en cual de las cinco iteraciones está.
+	
+	Si se ejecuta varias veces este programa añadirá más datos al documento times.txt. Esto se hace para que si quieres más datos para tener una mejor estimación sólo tienes que ejecutarlo otra vez. Si se quiere empezar de zero hay que borrar el archivo times.txt.
+	
+Finalmente tenemos el creador de la gráfica (Grafica.py):
+
+	Primero pone en una lista los tiempos que saca de times.txt, los convierte a float y elimina los espacios en blanco que aparecen en el programa en bash.
+	
+	En segundo lugar cuenta la longitud mínima de las listas de dentro de tiempos y recorta el resto para que midan lo mismo.
+	
+	En tercer lugar hace la media para los tiempos de cada número de hilos para compensar los posibles errores.
+	
+	Finalmente, se representa la gráfica transformando los tiempos a segundos.
+	
+Ahora analizaremos los resultados de la gráfica:
+
+	El sistema operativo decide que hacer con los hilos. Supuestamente el mínimo debería estar el número de núcleos que tiene el equipo por el número de hilos en paralelo que permite cada núcleo. Desde un hilo hasta ese número descendería la gráfica y a partir de ese punto subiría. Esto sería en un caso perfecto.
+	
+	Pero el sistema operativo hace lo que quiere con los hilos. En algunos equipos que probamos no ocurría el caso anterior. El mejor tiempo era con un sólo hilo y después el segundo era más y a partir de ahí una linea recta. El sistema operativo igual decide tener todos los hilos trabajando en el mismo núcleo. Esto se podría controlar porgramando para que cada hilo se mandase a un núcleo distinto pero no lo hacemos.

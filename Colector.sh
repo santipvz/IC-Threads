@@ -17,6 +17,5 @@ do
 	times=("${times[@]::$len}" "${times[-1]::-1}")
 	echo "${times[@]}" >> times.txt
 	
-	sleep 5
 
 done

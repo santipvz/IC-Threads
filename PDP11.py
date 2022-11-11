@@ -1,13 +1,13 @@
-import time
+from time import time
 from threading import Thread
 from math import tan
 from math import atan
-import sys
+from sys import argv
 
 n = 16
 
-if len(sys.argv) > 1:
-    n = int(sys.argv[1])
+if len(argv) > 1:
+    n = int(argv[1])
 
 class miThread(Thread):
     def __init__(self, x):
@@ -17,7 +17,6 @@ class miThread(Thread):
     def run(self):
         for i in range(self.nr):
             d = (tan(atan(tan(atan(tan(atan(tan(atan(tan(atan(123456789.123456789)))))))))))**(1/3)
-            #d = (123456789.123456789)**9.123456789
 
 hilos = []
 # Quotient
@@ -35,7 +34,7 @@ for i in range(n):
     mT = miThread(nr)
     hilos.append(mT)
 
-start = time.time()
+start = time()
 
 for hilo in hilos:
     hilo.start()
@@ -43,6 +42,6 @@ for hilo in hilos:
 for hilo in hilos:
     hilo.join()
 
-end = time.time()
+end = time()
 print(f"{end-start}")
 

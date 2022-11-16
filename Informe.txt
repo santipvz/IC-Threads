@@ -33,6 +33,6 @@ Finalmente tenemos el creador de la gráfica (Grafica.py):
 	
 Ahora analizaremos los resultados de la gráfica:
 
-	El sistema operativo decide que hacer con los hilos. Supuestamente el mínimo debería estar el número de núcleos que tiene el equipo por el número de hilos en paralelo que permite cada núcleo. Desde un hilo hasta ese número descendería la gráfica y a partir de ese punto subiría. Esto sería en un caso perfecto.
+	El sistema operativo decide qué hacer con los hilos. Supuestamente el mínimo debería ser el número de núcleos que tiene el equipo por el número de hilos en paralelo que permite cada núcleo. Desde un hilo hasta ese número descendería la gráfica y a partir de ese punto subiría. Esto sería en un caso perfecto.
 	
 	Pero el sistema operativo hace lo que quiere con los hilos. En algunos equipos que probamos no ocurría el caso anterior. El mejor tiempo era con un sólo hilo y después el segundo era más y a partir de ahí una linea recta. El sistema operativo igual decide tener todos los hilos trabajando en el mismo núcleo. Esto se podría controlar porgramando para que cada hilo se mandase a un núcleo distinto pero no lo hacemos.

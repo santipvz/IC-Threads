@@ -32,7 +32,7 @@ plt.scatter([x+1 for x in range(minum)], [x*(10**-9) for x in averages], s=10, c
 plt.plot([x+1 for x in range(minum)],[x*(10**-9) for x in averages])
 
 #for i in times:
-#    plt.scatter([x+1 for x in range(minum)], i, s=10, c='g')
+#    plt.scatter([x+1 for x in range(minum)], [x*(10**-9) for x in i], s=10, c='g')
 
 plt.xlabel('Thread')
 plt.ylabel('Time (s)')

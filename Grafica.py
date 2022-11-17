@@ -24,14 +24,19 @@ for i in range(minum):
     averages.append(sum([x[i] for x in times])/len(times))
 
 # We show the graph
-plt.title('Texto va aquí', fontsize=12)
+plt.title('Hilos vs tiempo', fontsize=22)
 plt.grid()
-plt.scatter([x+1 for x in range(minum)], [x*(10**-9) for x in averages], s=10, c='r')
-plt.plot([x+1 for x in range(minum)],[x*(10**-9) for x in averages])
+plt.xticks([x+1 for x in range(minum)])
+for i in times:
+    plt.scatter([x+1 for x in range(minum)], [x*(10**-9) for x in i], s=5, c="g",zorder=2)
+    plt.plot([x+1 for x in range(minum)],[x*(10**-9) for x in i], linewidth=1,zorder=2)
+    
+plt.scatter([x+1 for x in range(minum)], [x*(10**-9) for x in averages], s=100, c='b',zorder=4)
+plt.plot([x+1 for x in range(minum)],[x*(10**-9) for x in averages], linewidth=7, c='r',zorder=3)
 
-#for i in times:
-#    plt.scatter([x+1 for x in range(minum)], [x*(10**-9) for x in i], s=10, c='g')
 
+
+plt.legend()
 plt.xlabel('Thread')
 plt.ylabel('Time (s)')
 plt.show()

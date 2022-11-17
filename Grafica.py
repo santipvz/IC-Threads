@@ -28,11 +28,11 @@ plt.title('Hilos vs tiempo', fontsize=22)
 plt.grid()
 plt.xticks([x+1 for x in range(minum)])
 for i in times:
-    plt.scatter([x+1 for x in range(minum)], [x*(10**-9) for x in i], s=5, c="g",zorder=2)
-    plt.plot([x+1 for x in range(minum)],[x*(10**-9) for x in i], linewidth=1,zorder=2)
+    plt.scatter([x+1 for x in range(minum)], [x*(10**-9) for x in i], s=5,zorder=2)
+    plt.plot([x+1 for x in range(minum)],[x*(10**-9) for x in i], linewidth=1, zorder=1)
     
 plt.scatter([x+1 for x in range(minum)], [x*(10**-9) for x in averages], s=100, c='b',zorder=4)
-plt.plot([x+1 for x in range(minum)],[x*(10**-9) for x in averages], linewidth=7, c='r',zorder=3)
+plt.plot([x+1 for x in range(minum)],[x*(10**-9) for x in averages], linewidth=7, c='r',zorder=3,label="average")
 
 
 

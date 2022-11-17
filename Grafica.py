@@ -1,5 +1,3 @@
-import time
-import sys
 import numpy as np
 import sympy as sp
 import matplotlib as mp

@@ -7,7 +7,7 @@ do
 	for (( k=1; k<=16; k++))
 	do
 		times=("${times[@]}" "$(python3 PDP11.py $k),")
-		echo "En la $i interación de 5 con $k núcleos tardó: ${times[-1]::-1}"
+		echo "En la $i interación de 5 con $k núcleos tardó: ${times[-1]::-1} nanosegundos."
 	done
 
 

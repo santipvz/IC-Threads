@@ -3,20 +3,12 @@ from threading import Thread
 from math import tan
 from math import atan
 from sys import argv
+from miThread import miThread
 
 n = 16
 
 if len(argv) > 1:
     n = int(argv[1])
-
-class miThread(Thread):
-    def __init__(self, x):
-        Thread.__init__(self)
-        self.nr = x
-
-    def run(self):
-        for i in range(self.nr):
-            d = (tan(atan(tan(atan(tan(atan(tan(atan(tan(atan(123456789.123456789)))))))))))**(1/3)
 
 hilos = []
 # Quotient

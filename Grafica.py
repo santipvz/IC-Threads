@@ -2,6 +2,8 @@ import numpy as np
 import sympy as sp
 import matplotlib as mp
 import matplotlib.pyplot as plt
+import os
+os.stat(filePath)
 
 # We obtain the data
 times=[]
@@ -27,16 +29,16 @@ for i in range(minum):
 plt.title('Hilos vs tiempo', fontsize=22)
 plt.grid()
 plt.xticks([x+1 for x in range(minum)])
+
 for i in times:
     plt.scatter([x+1 for x in range(minum)], [x*(10**-9) for x in i], s=5,zorder=2)
     plt.plot([x+1 for x in range(minum)],[x*(10**-9) for x in i], linewidth=1, zorder=1)
     
 plt.scatter([x+1 for x in range(minum)], [x*(10**-9) for x in averages], s=100, c='b',zorder=4)
-plt.plot([x+1 for x in range(minum)],[x*(10**-9) for x in averages], linewidth=7, c='r',zorder=3,label="average")
-
-
+plt.plot([x+1 for x in range(minum)],[x*(10**-9) for x in averages], linewidth=7, c='r',zorder=3,label="Average")
 
 plt.legend()
 plt.xlabel('Thread')
 plt.ylabel('Time (s)')
+plt.savefig("grafica.svg")
 plt.show()

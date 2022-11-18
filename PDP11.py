@@ -25,6 +25,7 @@ for i in range(n):
         r-=1
     mT = miThread(nr)
     hilos.append(mT)
+    #print("Se ha creado el hilo", hilos[i].name)
 
 start = time_ns()
 
@@ -33,6 +34,7 @@ for hilo in hilos:
 
 for hilo in hilos:
     hilo.join()
+# print("Todos los hilos han acabado")
 
 end = time_ns()
 print(f"{end-start}")

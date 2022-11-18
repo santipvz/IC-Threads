@@ -1,5 +1,8 @@
 #!/bin/bash
 clear
+CPU=$(cat /proc/cpuinfo  | grep 'name'| uniq)
+CPU="${CPU:12}"
+echo $CPU
 for (( i=1; i<=5; i++))
 do
 
@@ -15,7 +18,6 @@ do
 
 
 	times=("${times[@]::$len}" "${times[-1]::-1}")
-	echo "${times[@]}" >> times.txt
-	
+	echo "${times[@]}" >> "$CPU".txt
 
 done

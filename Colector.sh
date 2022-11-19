@@ -1,5 +1,5 @@
 #!/bin/bash
-rm -fr tiempos.txt
+rm -fr times.txt
 clear
 CPU=$(cat /proc/cpuinfo  | grep 'name'| uniq)
 CPU="${CPU:13}"

@@ -2,12 +2,11 @@ import numpy as np
 import sympy as sp
 import matplotlib as mp
 import matplotlib.pyplot as plt
-import os
-os.stat("./")
 
 # We obtain the data
 times=[]
 with open("times.txt","r", encoding='utf-8') as f:
+    CPUname = f.readline().strip('\n')
     for line in f:
         times.append([float(x.strip()) for x in line.split(",")])
 
@@ -26,7 +25,7 @@ for i in range(minum):
     averages.append(sum([x[i] for x in times])/len(times))
 
 # We show the graph
-plt.title('Hilos vs tiempo', fontsize=22)
+plt.title(CPUname, fontsize=22)
 plt.grid()
 plt.xticks([x+1 for x in range(minum)])
 
@@ -38,7 +37,7 @@ plt.scatter([x+1 for x in range(minum)], [x*(10**-9) for x in averages], s=100, 
 plt.plot([x+1 for x in range(minum)],[x*(10**-9) for x in averages], linewidth=7, c='r',zorder=3,label="Average")
 
 plt.legend()
-plt.xlabel('Thread')
-plt.ylabel('Time (s)')
-plt.savefig("grafica.svg")
+plt.xlabel("Thread")
+plt.ylabel("Time (s)")
+plt.savefig(CPUname+".svg")
 plt.show()

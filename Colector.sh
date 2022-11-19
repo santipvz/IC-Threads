@@ -1,8 +1,9 @@
 #!/bin/bash
+rm -fr tiempos.txt
 clear
 CPU=$(cat /proc/cpuinfo  | grep 'name'| uniq)
-CPU="${CPU:12}"
-echo "$CPU".txt
+CPU="${CPU:13}"
+echo "$CPU" >> times.txt
 for (( i=1; i<=5; i++))
 do
 

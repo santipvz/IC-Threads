@@ -25,20 +25,23 @@ for i in range(minum):
     averages.append(sum([x[i] for x in times])/len(times))
 
 # We show the graph
-mng = plt.get_current_fig_manager()
-mng.resize(*mng.window.maxsize())
+plt.figure(figsize=(13,9))
+fullScreen = plt.get_current_fig_manager()
+fullScreen.resize(*fullScreen.window.maxsize())
 plt.title(CPUname, fontsize=22)
 plt.grid()
 plt.xticks([x+1 for x in range(minum)])
 
-for i in times:
-    plt.scatter([x+1 for x in range(minum)], [x*(10**-9) for x in i], s=5,zorder=2)
-    plt.plot([x+1 for x in range(minum)],[x*(10**-9) for x in i], linewidth=1, zorder=1)
+plt.scatter([x+1 for x in range(minum)], [x*(10**-9) for x in averages], s=50, c="b", zorder=4, marker="o")
+plt.plot([x+1 for x in range(minum)], [x*(10**-9) for x in averages], linewidth=5, c="r", zorder=3, label="Average")
+
+for n, i in enumerate(times):
+    plt.scatter([x+1 for x in range(minum)], [x*(10**-9) for x in i],s=5,zorder=2,marker="o")
+    plt.plot([x+1 for x in range(minum)], [x*(10**-9) for x in i], linewidth=1, zorder=1, label="Test "+str(n+1))
+
     
-plt.scatter([x+1 for x in range(minum)], [x*(10**-9) for x in averages], s=100, c='b',zorder=4, marker="o")
-plt.plot([x+1 for x in range(minum)],[x*(10**-9) for x in averages], linewidth=7, c='r',zorder=3,label="Average")
-plt.legend()
-plt.xlabel("Thread")
+plt.legend(loc='center left', bbox_to_anchor=(1, 0.5), shadow=True, fancybox=True)
+plt.xlabel("Threads")
 plt.ylabel("Time (s)")
 plt.savefig(CPUname+".svg")
 plt.show()

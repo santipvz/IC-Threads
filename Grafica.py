@@ -2,7 +2,7 @@ import numpy as np
 import sympy as sp
 import matplotlib as mp
 import matplotlib.pyplot as plt
-
+import matplotlib
 # We obtain the data
 times=[]
 with open("times.txt","r", encoding='utf-8') as f:
@@ -25,6 +25,8 @@ for i in range(minum):
     averages.append(sum([x[i] for x in times])/len(times))
 
 # We show the graph
+mng = plt.get_current_fig_manager()
+mng.resize(*mng.window.maxsize())
 plt.title(CPUname, fontsize=22)
 plt.grid()
 plt.xticks([x+1 for x in range(minum)])
@@ -35,7 +37,6 @@ for i in times:
     
 plt.scatter([x+1 for x in range(minum)], [x*(10**-9) for x in averages], s=100, c='b',zorder=4, marker="o")
 plt.plot([x+1 for x in range(minum)],[x*(10**-9) for x in averages], linewidth=7, c='r',zorder=3,label="Average")
-
 plt.legend()
 plt.xlabel("Thread")
 plt.ylabel("Time (s)")

@@ -8,7 +8,7 @@ En primer lugar tenemos el código en python de cálculo intensivo (PDP11.py):
 	
 	Medimos el tiempo en nanosegundos para tener más precisión.
 
-	El cálculo intensivo es la raíz cúbica de aplicar la tangente y la arcotangente 5 veces a 123456789.123456789. Cada hilo hace este cálculo nr veces. Usamos el módulo math por su diferencia de tiempo con el de numpy. Math tardaba menos de 1 segundo en hacer el cálculo intensivo sin hilos un millón de veces y numpy tardaba 9 segundos.
+	El cálculo intensivo es la raíz cúbica de aplicar la tangente y la arcotangente 5 veces a 123456789.123456789. Cada hilo hace este cálculo nr veces. Usamos el módulo math por su diferencia de tiempo con el de numpy. Math tardaba menos de 1 segundo en hacer el cálculo intensivo sin hilos un millón de veces y numpy tardaba 9 segundos. La raíz cúbica la hacemos elevando a un tercio porque es lo más rápido. Probamos a hacer la raíz cúbica de 123456789.123456789 cien millones de veces. Con cbrt de numpy tardó 53.54 segundos, con elevar a un tercio en numpy (power) tardó 107.83 segundos, con pow de python tardó 11.45 segundos y elevando con ** tardó 3.78 segundos. Entonces elegimos **.
 	
 	Todos los hilos con distinto número de repeticiones se meten en una lista llamada hilos. Se guarda el tiempo antes de iniciar los hilos en un bucle con .start() y se espera a su ejecución con un bucle con .join() y se mide el final. Se imprime la diferencia entre el final y el incio porque esta es la manera de recibirlo que tiene Colector.sh el archivo de bash.
 	

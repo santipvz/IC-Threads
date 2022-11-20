@@ -1,14 +1,26 @@
+En primer lugar tenemos el programa que genera la clase miThread (miThread.py):
+
+	De los módulos que necesitamos sólo importamos lo que usamos para no gastar tanto tiempo en importando el resto.
+
+	Definimos una clase llamada miThread que hereda de Thread. Recibe un argumento, que es el número de repeticiones, cuando se inicia la clase. Lo hacemos de esta manera porque el argumento va cambiando de valor para tener en cuenta el resto de la división entre un millón y el número de hilos. Este cálculo se hace con el cociente (c), el resto (r) y el número de repeticiones (nr). Nos aseguramos de repartir el resto para que las distintas repeticiones con distinto número de hilos hagan siempre un millón de iteraciones y no menos. Así eliminamos un pequeño error.
+
+	El cálculo intensivo es la raíz cúbica de aplicar la tangente y la arcotangente 5 veces a 123456789.123456789. Cada hilo hace este cálculo nr veces. Usamos el módulo math por su diferencia de tiempo con el de numpy. Math tardaba menos de 1 segundo en hacer el cálculo intensivo sin hilos un millón de veces y numpy tardaba 9 segundos. La raíz cúbica la hacemos elevando a un tercio porque es lo más rápido. Probamos a hacer la raíz cúbica de 123456789.123456789 cien millones de veces. Con cbrt de numpy tardó 53.54 segundos, con elevar a un tercio en numpy (power) tardó 107.83 segundos, con pow de python tardó 11.45 segundos y elevando con ** tardó 3.78 segundos. Entonces elegimos **.
+	
+	En el programa hay prints que están comentados que enseñarían en que momento del hilo estamos: en su inicio, en su ejecución o en tras su final. En el inicio podemos ver que todos los hilos se ejecutan en orden de creación, pero acaban en orden en desorden dependiendo de lo que haya hecho el sistema operativo. Poner el print de durante la ejecución hace que se relentice mucho el programa y que no
+
+
+
+
+
+
+
 En primer lugar tenemos el código en python de cálculo intensivo (PDP11.py):
 
 	De los módulos que necesitamos sólo importamos lo que usamos para no gastar tanto tiempo en importando el resto.
 
 	Este código recive como argumento el número de hilos con el módulo sys. Como el primer argumento es el nombre del programa cogemos el segundo argumento en una condicional cuándo hay más de un argumento.
-    
-	Definimos una clase llamada miThread que hereda de Thread. Recibe un argumento, que es el número de repeticiones, cuando se inicia la clase. Lo hacemos de esta manera porque el argumento va cambiando de valor para tener en cuenta el resto de la división entre un millón y el número de hilos. Este cálculo se hace con el cociente (c), el resto (r) y el número de repeticiones (nr). Nos aseguramos de repartir el resto para que las distintas repeticiones con distinto número de hilos hagan siempre un millón de iteraciones y no menos. Así eliminamos un pequeño error.
 	
 	Medimos el tiempo en nanosegundos para tener más precisión.
-
-	El cálculo intensivo es la raíz cúbica de aplicar la tangente y la arcotangente 5 veces a 123456789.123456789. Cada hilo hace este cálculo nr veces. Usamos el módulo math por su diferencia de tiempo con el de numpy. Math tardaba menos de 1 segundo en hacer el cálculo intensivo sin hilos un millón de veces y numpy tardaba 9 segundos. La raíz cúbica la hacemos elevando a un tercio porque es lo más rápido. Probamos a hacer la raíz cúbica de 123456789.123456789 cien millones de veces. Con cbrt de numpy tardó 53.54 segundos, con elevar a un tercio en numpy (power) tardó 107.83 segundos, con pow de python tardó 11.45 segundos y elevando con ** tardó 3.78 segundos. Entonces elegimos **.
 	
 	Todos los hilos con distinto número de repeticiones se meten en una lista llamada hilos. Se guarda el tiempo antes de iniciar los hilos en un bucle con .start() y se espera a su ejecución con un bucle con .join() y se mide el final. Se imprime la diferencia entre el final y el incio porque esta es la manera de recibirlo que tiene Colector.sh el archivo de bash.
 	

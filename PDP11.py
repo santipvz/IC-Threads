@@ -1,7 +1,4 @@
 from time import time_ns
-from threading import Thread
-from math import tan
-from math import atan
 from sys import argv
 from miThread import miThread
 

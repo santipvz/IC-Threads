@@ -26,8 +26,6 @@ for i in range(minum):
 
 # We show the graph
 plt.figure(figsize=(13,9)) # This makes the image show the entire graph
-size = plt.get_current_fig_manager()
-size.resize(*size.window.maxsize()) # This makes the graph fill the screen
 plt.title(CPUname, fontsize=22)
 plt.grid()
 plt.xticks([x+1 for x in range(minum)])

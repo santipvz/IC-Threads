@@ -1,16 +1,18 @@
+En este proyecto tratamos de consiguir un porgrama que muestre como gestiona un ordenador un programa intensivo con distintos números de hilos. Para saber los datos de un ordenador sólo hace falta ejecutar Colector.sh y Grafica.py.
+
 En primer lugar tenemos el programa que genera la clase miThread (miThread.py):
 
-	De los módulos que necesitamos sólo importamos lo que usamos para no gastar tanto tiempo en importando el resto.
+	De los módulos que necesitamos sólo importamos lo que usamos para no gastar tanto tiempo importando el resto.
 
 	Definimos una clase llamada miThread que hereda de Thread. Recibe un argumento, que es el número de repeticiones, cuando se inicia la clase. Lo hacemos de esta manera porque el argumento va cambiando de valor para tener en cuenta el resto de la división entre un millón y el número de hilos. Este cálculo se hace con el cociente (c), el resto (r) y el número de repeticiones (nr). Nos aseguramos de repartir el resto para que las distintas repeticiones con distinto número de hilos hagan siempre un millón de iteraciones y no menos. Este cálculo está en PDP11.py y así eliminamos un pequeño error.
 
 	El cálculo intensivo es la raíz cúbica de aplicar la tangente y la arcotangente 5 veces a 123456789.123456789. Cada hilo hace este cálculo nr veces. Usamos el módulo math por su diferencia de tiempo con el de numpy. Math tardaba menos de 1 segundo en hacer el cálculo intensivo sin hilos un millón de veces y numpy tardaba 9 segundos. La raíz cúbica la hacemos elevando a un tercio porque es lo más rápido. Probamos a hacer la raíz cúbica de 123456789.123456789 cien millones de veces. Con cbrt de numpy tardó 53.54 segundos, con elevar a un tercio en numpy (power) tardó 107.83 segundos, con pow de python tardó 11.45 segundos y elevando con ** tardó 3.78 segundos. Entonces elegimos **.
 	
-	En el programa hay prints que están comentados que enseñarían en que momento del hilo estamos: en su inicio, en su ejecución o en tras su final. En el inicio podemos ver que todos los hilos se ejecutan en orden de creación, pero acaban en orden en desorden dependiendo de lo que haya hecho el sistema operativo. Poner el print de durante la ejecución hace que se relentice mucho el programa y no sirve demasiado demasiado porque hay un millón de ellos y el texto pasa muy rápido para leerlos. Este es el único problema de encontrar las fase; sabemos cuando se crea, cuando se inicia la ejecución y cuando acaba la ejecucuión, pero durante la ejecución si queremos saber en que interación está cada hilo es mucha información que se mueve muy rápido. Si quisiésemos podríamos analizar todos los prints, pero habría un millón de ellos.
+	En el programa hay prints que están comentados que enseñarían en que momento del hilo estamos: en su inicio, en su ejecución o tras su final. En el inicio podemos ver que todos los hilos se ejecutan en orden de creación, pero acaban en desorden dependiendo de lo que haya hecho el sistema operativo. Descomentar el print de la ejecución hace que se relentice mucho el programa y no sirve demasiado porque hay un millón de ellos y el texto pasa muy rápido para leerlos. Este es el único problema de encontrar las fase; sabemos cuando se crea, cuando se inicia la ejecución y cuando acaba la ejecución, pero durante la ejecución si queremos saber en que interación está cada hilo es mucha información que se mueve muy rápido. Si quisiésemos podríamos analizar todos los prints, pero habría un millón de ellos.
 
 En segundo lugar tenemos el código en python de cálculo intensivo (PDP11.py):
 
-	De los módulos que necesitamos sólo importamos lo que usamos para no gastar tanto tiempo en importando el resto.
+	De los módulos que necesitamos sólo importamos lo que usamos para no gastar tanto tiempo importando el resto.
 	
 	Importamos la clase miThread del archivo miThread.py.
 
@@ -38,7 +40,7 @@ En cuarto lugar tenemos el código en bash que recoge y guarda los datos (Colect
 	
 Finalmente tenemos el creador de la gráfica (Grafica.py):
 
-	Primero sacamos la primera línea de times.txt que es el nombre del modelo. Después pone en una lista los tiempos que saca de times.txt, los convierte a float y elimina los espacios en blanco que aparecen en el programa en bash.
+	Primero obtenemos la primera línea de times.txt que es el nombre del modelo. Después crea una lista los tiempos que saca de times.txt, los convierte a float y elimina los espacios en blanco que aparecen en el programa en bash.
 	
 	En segundo lugar cuenta la longitud mínima de las listas de dentro de tiempos y recorta el resto para que midan lo mismo.
 	
@@ -50,4 +52,4 @@ Ahora analizaremos los resultados de la gráfica:
 
 	El sistema operativo decide qué hacer con los hilos. Supuestamente el mínimo debería ser el número de núcleos que tiene el equipo por el número de hilos en paralelo que permite cada núcleo. Desde un hilo hasta ese número descendería la gráfica y a partir de ese punto subiría. Esto sería en un caso perfecto.
 	
-	Pero el sistema operativo hace lo que quiere con los hilos. En los equipos que probamos no ocurría el caso anterior. Esto lo podemos ver en los distintos svg que las gráficas son muy distintas entre distintos núcleos y muy imprecisas por las variaciones que vemos entre las pruebas. No hay un patrón entre las distintas gráficas y a veces no hay entre las distintas pruebas de la misma gráfica. El sistema operativo igual decide tener todos los hilos trabajando en el mismo núcleo. Esto se podría controlar porgramando para que cada hilo se mandase a un núcleo distinto pero no lo hacemos en este proyecto.
+	Pero el sistema operativo es imprevisible con los hilos. En los equipos que probamos no ocurría el caso anterior. Esto lo podemos ver en los distintos svg que las gráficas son muy distintas entre distintos núcleos y muy imprecisas por las variaciones que vemos entre las pruebas. No hay un patrón entre las distintas gráficas y a veces no hay entre las distintas pruebas de la misma gráfica. El sistema operativo igual decide tener todos los hilos trabajando en el mismo núcleo. Esto se podría controlar programando para que cada hilo se mandase a un núcleo distinto pero no lo hacemos en este proyecto. También se podría eliminar las imprecisiones haciendo que si la gráfica detectase las imprecisiones añadiese más datos y eliminase la fila que se separa más de la media.

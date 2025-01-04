@@ -1,8 +1,5 @@
-import numpy as np
-import sympy as sp
-import matplotlib as mp
 import matplotlib.pyplot as plt
-import matplotlib
+
 
 # We obtain the data
 times = []

@@ -3,6 +3,12 @@ import os
 
 directory = os.path.dirname(os.path.abspath(__file__))
 
+# We check if the directory exists
+if not os.path.exists(os.path.join(directory, "images")):
+    # If the directory doesn't exist, we create it
+    os.mkdir(os.path.join(directory, "images"))
+
+
 # We obtain the data
 times = []
 with open("times.txt", "r", encoding="utf-8") as f:

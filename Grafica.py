@@ -1,5 +1,7 @@
 import matplotlib.pyplot as plt
+import os
 
+directory = os.path.dirname(os.path.abspath(__file__))
 
 # We obtain the data
 times = []
@@ -65,5 +67,5 @@ for n, i in enumerate(times):
 plt.legend(loc="center left", bbox_to_anchor=(1, 0.5), shadow=True, fancybox=True)
 plt.xlabel("Threads")
 plt.ylabel("Time (s)")
-plt.savefig(CPUname + ".svg")
+plt.savefig(os.path.join(directory, "images", CPUname + ".svg"))
 plt.show()

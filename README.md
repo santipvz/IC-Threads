@@ -6,4 +6,4 @@ This is a project for a subject called "Introducción a los computadores" (Intro
 
 ## Project Summary
 
-For this project we had to create a program that meassured how long a CPU intensive task took to complete using more or less threads. Here are the instructions we were given in spanish: [Project Instructions (Spanish)](santipvz/proyecto_IC/blob/main/docs/proyecto%20grupo%20ic.pdf). With the results we saw that we didn't use threads properly, probably we only used one actual thread because we created processes.
+For this project we had to create a program that meassured how long a CPU intensive task took to complete using more or less threads. Here are the instructions we were given in spanish: [Project Instructions (Spanish)](docs/proyecto%20grupo%20ic.pdf). With the results we saw that we didn't use threads properly, probably we only used one actual thread because we created processes.

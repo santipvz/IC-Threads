@@ -3,6 +3,7 @@ from math import tan, atan
 
 
 class miThread(Thread):
+
     def __init__(self, x=1):
         super().__init__()
         self.nr = x
@@ -19,3 +20,23 @@ class miThread(Thread):
                 )
             ) ** (1 / 3)
         # print(f"Acabó el hilo {self.name} con {self.nr} iteraciones\n")
+
+
+def functionWithThread(nIterations: int) -> None:
+    """
+    This function creates a thread and runs it
+    with the task.
+
+    We need to create this function because
+    ProcessPoolExecutor can't work directly with
+    the class miThread.
+
+    Args:
+        - nIterations (int): Number of iterations to be done
+
+    Returns:
+        - None
+    """
+    thread = miThread(nIterations)
+    thread.start()
+    thread.join()

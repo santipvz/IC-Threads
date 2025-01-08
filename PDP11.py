@@ -1,6 +1,7 @@
 from time import time_ns
 from sys import argv
-from miThread import miThread
+import miThread
+from concurrent.futures import ProcessPoolExecutor
 
 n = 16
 
@@ -13,24 +14,24 @@ c = 1000000 // n
 # Module
 r = 1000000 % n
 
-for i in range(n):
-    # nr is the number of repetitions
-    nr = c
-    if r > 0:
-        # nr varies accordind to the module of the division
-        nr += 1
-        r -= 1
-    mT = miThread(nr)
-    hilos.append(mT)
-    # print("Se ha creado el hilo", hilos[i].name)
+with ProcessPoolExecutor() as executor:
 
-start = time_ns()
+    for i in range(n):
+        # nr is the number of repetitions
+        nr = c
+        if r > 0:
+            # nr varies accordind to the module of the division
+            nr += 1
+            r -= 1
 
-for hilo in hilos:
-    hilo.start()
+        hilos.append(executor.submit(miThread.functionWithThread, nr))
+        # print("Se ha creado el hilo", hilos[i].name)
 
-for hilo in hilos:
-    hilo.join()
+    start = time_ns()
+
+    for hilo in hilos:
+        hilo.result()
+
 # print("Todos los hilos han acabado")
 
 end = time_ns()

@@ -58,6 +58,10 @@ if __name__ == "__main__":
                     if (nThread, nIter) not in rows.index:
                         alreadyTimed = False
                         break
+        else:
+            alreadyTimed = False
+    else:
+        alreadyTimed = False
 
     # If the CPU is not in the data, we need to time it
     if not alreadyTimed:

@@ -24,7 +24,7 @@ if __name__ == "__main__":
             "Cores": "int",
             "Threads": "int",
             "Iteration": "int",
-            "Time": "float",
+            "Time": "int",
         }
     )
 
@@ -41,19 +41,25 @@ if __name__ == "__main__":
     if info[0] != cpuName:
         raise Exception(f"CPU name mismatch: {info[0]} != {cpuName}")
 
-    newInfo = []
-
     # Each line is an iteration
     for i, line in enumerate(info[1:]):
         # Each number is with a different amount of threads
         for j, time in enumerate(line.split(",")):
-            newInfo.append({"Threads": j + 1, "Iteration": i + 1, "Time": float(time)})
 
-    # We add the new data to the dataframe
-    # We do it in a loop in order to not occupy to much memory
-    for row in newInfo:
-        rowIndex = (cpuName, nCores, row["Threads"], row["Iteration"])
-        data.loc[rowIndex] = row["Time"]
+            # We create the row index
+            rowIndex = {
+                "Cores": nCores,
+                "Threads": j + 1,
+                "Iteration": i + 1,
+                "CPU": cpuName,
+            }
+
+            # Reorder the keys based on the MultiIndex level names
+            indexValues = tuple(rowIndex[name] for name in data.index.names)
+
+            data.loc[indexValues] = {"Time": time}
+
+    data.sort_index(inplace=True)
 
     # We save the data
     data.to_csv("data.csv", index=True)

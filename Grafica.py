@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 import os
+import pandas as pd
 
 directory = os.path.dirname(os.path.abspath(__file__))
 
@@ -10,68 +11,72 @@ if not os.path.exists(os.path.join(directory, "images")):
 
 
 # We obtain the data
-times = []
-with open("times.txt", "r", encoding="utf-8") as f:
-    CPUname = f.readline().strip("\n")
-    for line in f:
-        times.append([float(x.strip()) for x in line.split(",")])
+info = pd.read_csv("data.csv")
 
-# We reduce the data to the same length
-minum = len(times[0])
-for i in times:
-    if len(i) < minum:
-        minum = len(i) - 1
-
-for i in range(len(times)):
-    times[i] = times[i][:minum]
-
-# We calculate the averages
-averages = []
-for i in range(minum):
-    averages.append(sum([x[i] for x in times]) / len(times))
-
-# We show the graph
-plt.figure(figsize=(13, 9))  # This makes the image show the entire graph
-plt.title(CPUname, fontsize=22)
-plt.grid()
-plt.xticks([x + 1 for x in range(minum)])
-
-plt.scatter(
-    [x + 1 for x in range(minum)],
-    [x * (10**-9) for x in averages],
-    s=50,
-    c="b",
-    zorder=4,
-    marker="o",
-)
-plt.plot(
-    [x + 1 for x in range(minum)],
-    [x * (10**-9) for x in averages],
-    linewidth=5,
-    c="r",
-    zorder=3,
-    label="Average",
+# Make Cores,Threads,Iteration,Time into integers
+info = info.astype(
+    {
+        "CPU": "string",
+        "Cores": "int",
+        "Threads": "int",
+        "Iteration": "int",
+        "Time": "int",
+    }
 )
 
-for n, i in enumerate(times):
+# The max number of threads
+maxThreads = info["Threads"].max()
+
+# We group by CPU
+for cpu in info.groupby(["CPU"]):
+    CPUname = cpu[0][0]
+
+    plt.figure(figsize=(13, 9))  # This makes the image show the entire graph
+    plt.title(CPUname, fontsize=22)
+    plt.grid()
+
+    # We put the dots of the average
     plt.scatter(
-        [x + 1 for x in range(minum)],
-        [x * (10**-9) for x in i],
-        s=5,
-        zorder=2,
+        [x + 1 for x in range(maxThreads)],
+        [x * (10**-9) for x in cpu[1].groupby(["Threads"])["Time"].mean()],
+        s=50,
+        c="b",
+        zorder=4,
         marker="o",
     )
+
+    # We plot the average
     plt.plot(
-        [x + 1 for x in range(minum)],
-        [x * (10**-9) for x in i],
-        linewidth=1,
-        zorder=1,
-        label="Test " + str(n + 1),
+        [x + 1 for x in range(maxThreads)],
+        [x * (10**-9) for x in cpu[1].groupby(["Threads"])["Time"].mean()],
+        linewidth=5,
+        c="r",
+        zorder=3,
+        label="Average",
     )
 
+    # We plot and scatter each iteration
+    for iteration in cpu[1].groupby(["Iteration"]):
+        plt.scatter(
+            [x + 1 for x in range(maxThreads)],
+            [x * (10**-9) for x in iteration[1]["Time"]],
+            s=5,
+            zorder=2,
+            marker="o",
+        )
+        plt.plot(
+            [x + 1 for x in range(maxThreads)],
+            [x * (10**-9) for x in iteration[1]["Time"]],
+            linewidth=1,
+            zorder=1,
+            label="Test " + str(iteration[0][0]),
+        )
 
-plt.legend(loc="center left", bbox_to_anchor=(1, 0.5), shadow=True, fancybox=True)
-plt.xlabel("Threads")
-plt.ylabel("Time (s)")
-plt.savefig(os.path.join(directory, "images", CPUname + ".svg"))
+    plt.legend(loc="center left", bbox_to_anchor=(1, 0.5), shadow=True, fancybox=True)
+    plt.xlabel("Threads")
+    plt.ylabel("Time (s)")
+
+    # We save the image
+    plt.savefig(os.path.join(directory, "images", CPUname + ".svg"))
+
 plt.show()

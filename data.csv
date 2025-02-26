@@ -999,6 +999,1006 @@ CPU,Cores,Threads,Iteration,Time
 11th Gen Intel(R) Core(TM) i7-11700K @ 3.60GHz,16,200,3,36276069
 11th Gen Intel(R) Core(TM) i7-11700K @ 3.60GHz,16,200,4,34414908
 11th Gen Intel(R) Core(TM) i7-11700K @ 3.60GHz,16,200,5,35383896
+12th Gen Intel(R) Core(TM) i5-12400,12,1,1,304512967
+12th Gen Intel(R) Core(TM) i5-12400,12,1,2,314097002
+12th Gen Intel(R) Core(TM) i5-12400,12,1,3,304848569
+12th Gen Intel(R) Core(TM) i5-12400,12,1,4,303132961
+12th Gen Intel(R) Core(TM) i5-12400,12,1,5,302617583
+12th Gen Intel(R) Core(TM) i5-12400,12,2,1, 159634425
+12th Gen Intel(R) Core(TM) i5-12400,12,2,2, 163841723
+12th Gen Intel(R) Core(TM) i5-12400,12,2,3, 156156327
+12th Gen Intel(R) Core(TM) i5-12400,12,2,4, 155461812
+12th Gen Intel(R) Core(TM) i5-12400,12,2,5, 156277572
+12th Gen Intel(R) Core(TM) i5-12400,12,3,1, 109205211
+12th Gen Intel(R) Core(TM) i5-12400,12,3,2, 109199595
+12th Gen Intel(R) Core(TM) i5-12400,12,3,3, 109732286
+12th Gen Intel(R) Core(TM) i5-12400,12,3,4, 108737185
+12th Gen Intel(R) Core(TM) i5-12400,12,3,5, 108153197
+12th Gen Intel(R) Core(TM) i5-12400,12,4,1, 82515702
+12th Gen Intel(R) Core(TM) i5-12400,12,4,2, 84157105
+12th Gen Intel(R) Core(TM) i5-12400,12,4,3, 105965881
+12th Gen Intel(R) Core(TM) i5-12400,12,4,4, 84135442
+12th Gen Intel(R) Core(TM) i5-12400,12,4,5, 108745372
+12th Gen Intel(R) Core(TM) i5-12400,12,5,1, 84256361
+12th Gen Intel(R) Core(TM) i5-12400,12,5,2, 69248076
+12th Gen Intel(R) Core(TM) i5-12400,12,5,3, 69434442
+12th Gen Intel(R) Core(TM) i5-12400,12,5,4, 68497301
+12th Gen Intel(R) Core(TM) i5-12400,12,5,5, 68439734
+12th Gen Intel(R) Core(TM) i5-12400,12,6,1, 57401487
+12th Gen Intel(R) Core(TM) i5-12400,12,6,2, 58223173
+12th Gen Intel(R) Core(TM) i5-12400,12,6,3, 66742353
+12th Gen Intel(R) Core(TM) i5-12400,12,6,4, 68177701
+12th Gen Intel(R) Core(TM) i5-12400,12,6,5, 58216081
+12th Gen Intel(R) Core(TM) i5-12400,12,7,1, 60294477
+12th Gen Intel(R) Core(TM) i5-12400,12,7,2, 60765473
+12th Gen Intel(R) Core(TM) i5-12400,12,7,3, 60054230
+12th Gen Intel(R) Core(TM) i5-12400,12,7,4, 60109063
+12th Gen Intel(R) Core(TM) i5-12400,12,7,5, 60382790
+12th Gen Intel(R) Core(TM) i5-12400,12,8,1, 52549388
+12th Gen Intel(R) Core(TM) i5-12400,12,8,2, 52502950
+12th Gen Intel(R) Core(TM) i5-12400,12,8,3, 53308717
+12th Gen Intel(R) Core(TM) i5-12400,12,8,4, 53357378
+12th Gen Intel(R) Core(TM) i5-12400,12,8,5, 54143546
+12th Gen Intel(R) Core(TM) i5-12400,12,9,1, 47730196
+12th Gen Intel(R) Core(TM) i5-12400,12,9,2, 47766436
+12th Gen Intel(R) Core(TM) i5-12400,12,9,3, 48069258
+12th Gen Intel(R) Core(TM) i5-12400,12,9,4, 47869342
+12th Gen Intel(R) Core(TM) i5-12400,12,9,5, 48045853
+12th Gen Intel(R) Core(TM) i5-12400,12,10,1, 43167609
+12th Gen Intel(R) Core(TM) i5-12400,12,10,2, 43231706
+12th Gen Intel(R) Core(TM) i5-12400,12,10,3, 45179841
+12th Gen Intel(R) Core(TM) i5-12400,12,10,4, 45208988
+12th Gen Intel(R) Core(TM) i5-12400,12,10,5, 43627504
+12th Gen Intel(R) Core(TM) i5-12400,12,11,1, 54307757
+12th Gen Intel(R) Core(TM) i5-12400,12,11,2, 40972035
+12th Gen Intel(R) Core(TM) i5-12400,12,11,3, 41032286
+12th Gen Intel(R) Core(TM) i5-12400,12,11,4, 42344396
+12th Gen Intel(R) Core(TM) i5-12400,12,11,5, 40202332
+12th Gen Intel(R) Core(TM) i5-12400,12,12,1, 37685348
+12th Gen Intel(R) Core(TM) i5-12400,12,12,2, 48415311
+12th Gen Intel(R) Core(TM) i5-12400,12,12,3, 43568252
+12th Gen Intel(R) Core(TM) i5-12400,12,12,4, 39720681
+12th Gen Intel(R) Core(TM) i5-12400,12,12,5, 38147289
+12th Gen Intel(R) Core(TM) i5-12400,12,13,1, 58403219
+12th Gen Intel(R) Core(TM) i5-12400,12,13,2, 59039724
+12th Gen Intel(R) Core(TM) i5-12400,12,13,3, 58962188
+12th Gen Intel(R) Core(TM) i5-12400,12,13,4, 54935959
+12th Gen Intel(R) Core(TM) i5-12400,12,13,5, 57454769
+12th Gen Intel(R) Core(TM) i5-12400,12,14,1, 54517242
+12th Gen Intel(R) Core(TM) i5-12400,12,14,2, 59037386
+12th Gen Intel(R) Core(TM) i5-12400,12,14,3, 54057940
+12th Gen Intel(R) Core(TM) i5-12400,12,14,4, 55033568
+12th Gen Intel(R) Core(TM) i5-12400,12,14,5, 54713125
+12th Gen Intel(R) Core(TM) i5-12400,12,15,1, 55197326
+12th Gen Intel(R) Core(TM) i5-12400,12,15,2, 51453299
+12th Gen Intel(R) Core(TM) i5-12400,12,15,3, 56239549
+12th Gen Intel(R) Core(TM) i5-12400,12,15,4, 56343014
+12th Gen Intel(R) Core(TM) i5-12400,12,15,5, 51519702
+12th Gen Intel(R) Core(TM) i5-12400,12,16,1, 49223739
+12th Gen Intel(R) Core(TM) i5-12400,12,16,2, 51311406
+12th Gen Intel(R) Core(TM) i5-12400,12,16,3, 49086325
+12th Gen Intel(R) Core(TM) i5-12400,12,16,4, 49519357
+12th Gen Intel(R) Core(TM) i5-12400,12,16,5, 51040388
+12th Gen Intel(R) Core(TM) i5-12400,12,17,1, 50835628
+12th Gen Intel(R) Core(TM) i5-12400,12,17,2, 50794907
+12th Gen Intel(R) Core(TM) i5-12400,12,17,3, 50486399
+12th Gen Intel(R) Core(TM) i5-12400,12,17,4, 50457024
+12th Gen Intel(R) Core(TM) i5-12400,12,17,5, 50628349
+12th Gen Intel(R) Core(TM) i5-12400,12,18,1, 47997739
+12th Gen Intel(R) Core(TM) i5-12400,12,18,2, 47259827
+12th Gen Intel(R) Core(TM) i5-12400,12,18,3, 48356131
+12th Gen Intel(R) Core(TM) i5-12400,12,18,4, 47804980
+12th Gen Intel(R) Core(TM) i5-12400,12,18,5, 47859115
+12th Gen Intel(R) Core(TM) i5-12400,12,19,1, 45900236
+12th Gen Intel(R) Core(TM) i5-12400,12,19,2, 45943135
+12th Gen Intel(R) Core(TM) i5-12400,12,19,3, 46283220
+12th Gen Intel(R) Core(TM) i5-12400,12,19,4, 46496735
+12th Gen Intel(R) Core(TM) i5-12400,12,19,5, 45204797
+12th Gen Intel(R) Core(TM) i5-12400,12,20,1, 44935475
+12th Gen Intel(R) Core(TM) i5-12400,12,20,2, 44113090
+12th Gen Intel(R) Core(TM) i5-12400,12,20,3, 44584208
+12th Gen Intel(R) Core(TM) i5-12400,12,20,4, 43467629
+12th Gen Intel(R) Core(TM) i5-12400,12,20,5, 44001582
+12th Gen Intel(R) Core(TM) i5-12400,12,21,1, 42693576
+12th Gen Intel(R) Core(TM) i5-12400,12,21,2, 42310056
+12th Gen Intel(R) Core(TM) i5-12400,12,21,3, 42185122
+12th Gen Intel(R) Core(TM) i5-12400,12,21,4, 41962504
+12th Gen Intel(R) Core(TM) i5-12400,12,21,5, 43178527
+12th Gen Intel(R) Core(TM) i5-12400,12,22,1, 41352241
+12th Gen Intel(R) Core(TM) i5-12400,12,22,2, 40907270
+12th Gen Intel(R) Core(TM) i5-12400,12,22,3, 42630393
+12th Gen Intel(R) Core(TM) i5-12400,12,22,4, 41013218
+12th Gen Intel(R) Core(TM) i5-12400,12,22,5, 40519014
+12th Gen Intel(R) Core(TM) i5-12400,12,23,1, 39198339
+12th Gen Intel(R) Core(TM) i5-12400,12,23,2, 42544623
+12th Gen Intel(R) Core(TM) i5-12400,12,23,3, 39705713
+12th Gen Intel(R) Core(TM) i5-12400,12,23,4, 44200808
+12th Gen Intel(R) Core(TM) i5-12400,12,23,5, 42275512
+12th Gen Intel(R) Core(TM) i5-12400,12,24,1, 44333941
+12th Gen Intel(R) Core(TM) i5-12400,12,24,2, 38333765
+12th Gen Intel(R) Core(TM) i5-12400,12,24,3, 38506898
+12th Gen Intel(R) Core(TM) i5-12400,12,24,4, 45038210
+12th Gen Intel(R) Core(TM) i5-12400,12,24,5, 45899992
+12th Gen Intel(R) Core(TM) i5-12400,12,25,1, 47179371
+12th Gen Intel(R) Core(TM) i5-12400,12,25,2, 47596361
+12th Gen Intel(R) Core(TM) i5-12400,12,25,3, 48320874
+12th Gen Intel(R) Core(TM) i5-12400,12,25,4, 48768784
+12th Gen Intel(R) Core(TM) i5-12400,12,25,5, 47996105
+12th Gen Intel(R) Core(TM) i5-12400,12,26,1, 46347405
+12th Gen Intel(R) Core(TM) i5-12400,12,26,2, 46882230
+12th Gen Intel(R) Core(TM) i5-12400,12,26,3, 47088378
+12th Gen Intel(R) Core(TM) i5-12400,12,26,4, 46430836
+12th Gen Intel(R) Core(TM) i5-12400,12,26,5, 46784355
+12th Gen Intel(R) Core(TM) i5-12400,12,27,1, 45142318
+12th Gen Intel(R) Core(TM) i5-12400,12,27,2, 49663840
+12th Gen Intel(R) Core(TM) i5-12400,12,27,3, 48259595
+12th Gen Intel(R) Core(TM) i5-12400,12,27,4, 48520940
+12th Gen Intel(R) Core(TM) i5-12400,12,27,5, 47513799
+12th Gen Intel(R) Core(TM) i5-12400,12,28,1, 46872946
+12th Gen Intel(R) Core(TM) i5-12400,12,28,2, 45563406
+12th Gen Intel(R) Core(TM) i5-12400,12,28,3, 47664936
+12th Gen Intel(R) Core(TM) i5-12400,12,28,4, 47008866
+12th Gen Intel(R) Core(TM) i5-12400,12,28,5, 45045233
+12th Gen Intel(R) Core(TM) i5-12400,12,29,1, 44964991
+12th Gen Intel(R) Core(TM) i5-12400,12,29,2, 43705322
+12th Gen Intel(R) Core(TM) i5-12400,12,29,3, 44726270
+12th Gen Intel(R) Core(TM) i5-12400,12,29,4, 44976994
+12th Gen Intel(R) Core(TM) i5-12400,12,29,5, 46812646
+12th Gen Intel(R) Core(TM) i5-12400,12,30,1, 44575020
+12th Gen Intel(R) Core(TM) i5-12400,12,30,2, 45068877
+12th Gen Intel(R) Core(TM) i5-12400,12,30,3, 45909305
+12th Gen Intel(R) Core(TM) i5-12400,12,30,4, 43689536
+12th Gen Intel(R) Core(TM) i5-12400,12,30,5, 44923499
+12th Gen Intel(R) Core(TM) i5-12400,12,31,1, 42621012
+12th Gen Intel(R) Core(TM) i5-12400,12,31,2, 45537876
+12th Gen Intel(R) Core(TM) i5-12400,12,31,3, 44673560
+12th Gen Intel(R) Core(TM) i5-12400,12,31,4, 43082087
+12th Gen Intel(R) Core(TM) i5-12400,12,31,5, 44152114
+12th Gen Intel(R) Core(TM) i5-12400,12,32,1, 41091671
+12th Gen Intel(R) Core(TM) i5-12400,12,32,2, 45051873
+12th Gen Intel(R) Core(TM) i5-12400,12,32,3, 43806859
+12th Gen Intel(R) Core(TM) i5-12400,12,32,4, 47239397
+12th Gen Intel(R) Core(TM) i5-12400,12,32,5, 41495756
+12th Gen Intel(R) Core(TM) i5-12400,12,33,1, 41596511
+12th Gen Intel(R) Core(TM) i5-12400,12,33,2, 41112938
+12th Gen Intel(R) Core(TM) i5-12400,12,33,3, 44080430
+12th Gen Intel(R) Core(TM) i5-12400,12,33,4, 44007207
+12th Gen Intel(R) Core(TM) i5-12400,12,33,5, 43108177
+12th Gen Intel(R) Core(TM) i5-12400,12,34,1, 41809199
+12th Gen Intel(R) Core(TM) i5-12400,12,34,2, 39383289
+12th Gen Intel(R) Core(TM) i5-12400,12,34,3, 42657254
+12th Gen Intel(R) Core(TM) i5-12400,12,34,4, 42014335
+12th Gen Intel(R) Core(TM) i5-12400,12,34,5, 42812221
+12th Gen Intel(R) Core(TM) i5-12400,12,35,1, 39918154
+12th Gen Intel(R) Core(TM) i5-12400,12,35,2, 42058206
+12th Gen Intel(R) Core(TM) i5-12400,12,35,3, 39909711
+12th Gen Intel(R) Core(TM) i5-12400,12,35,4, 40969742
+12th Gen Intel(R) Core(TM) i5-12400,12,35,5, 42046195
+12th Gen Intel(R) Core(TM) i5-12400,12,36,1, 40948867
+12th Gen Intel(R) Core(TM) i5-12400,12,36,2, 42620207
+12th Gen Intel(R) Core(TM) i5-12400,12,36,3, 42924501
+12th Gen Intel(R) Core(TM) i5-12400,12,36,4, 45266856
+12th Gen Intel(R) Core(TM) i5-12400,12,36,5, 44767764
+12th Gen Intel(R) Core(TM) i5-12400,12,37,1, 45085410
+12th Gen Intel(R) Core(TM) i5-12400,12,37,2, 43203981
+12th Gen Intel(R) Core(TM) i5-12400,12,37,3, 44941341
+12th Gen Intel(R) Core(TM) i5-12400,12,37,4, 45023785
+12th Gen Intel(R) Core(TM) i5-12400,12,37,5, 45099880
+12th Gen Intel(R) Core(TM) i5-12400,12,38,1, 43708140
+12th Gen Intel(R) Core(TM) i5-12400,12,38,2, 44396078
+12th Gen Intel(R) Core(TM) i5-12400,12,38,3, 43568934
+12th Gen Intel(R) Core(TM) i5-12400,12,38,4, 43730142
+12th Gen Intel(R) Core(TM) i5-12400,12,38,5, 45063120
+12th Gen Intel(R) Core(TM) i5-12400,12,39,1, 43102680
+12th Gen Intel(R) Core(TM) i5-12400,12,39,2, 43180203
+12th Gen Intel(R) Core(TM) i5-12400,12,39,3, 43020953
+12th Gen Intel(R) Core(TM) i5-12400,12,39,4, 44639027
+12th Gen Intel(R) Core(TM) i5-12400,12,39,5, 44458395
+12th Gen Intel(R) Core(TM) i5-12400,12,40,1, 44326046
+12th Gen Intel(R) Core(TM) i5-12400,12,40,2, 42354647
+12th Gen Intel(R) Core(TM) i5-12400,12,40,3, 43826512
+12th Gen Intel(R) Core(TM) i5-12400,12,40,4, 43256000
+12th Gen Intel(R) Core(TM) i5-12400,12,40,5, 44494562
+12th Gen Intel(R) Core(TM) i5-12400,12,41,1, 42534414
+12th Gen Intel(R) Core(TM) i5-12400,12,41,2, 43575832
+12th Gen Intel(R) Core(TM) i5-12400,12,41,3, 42813443
+12th Gen Intel(R) Core(TM) i5-12400,12,41,4, 42359388
+12th Gen Intel(R) Core(TM) i5-12400,12,41,5, 43655464
+12th Gen Intel(R) Core(TM) i5-12400,12,42,1, 43175194
+12th Gen Intel(R) Core(TM) i5-12400,12,42,2, 42199505
+12th Gen Intel(R) Core(TM) i5-12400,12,42,3, 42190457
+12th Gen Intel(R) Core(TM) i5-12400,12,42,4, 43260765
+12th Gen Intel(R) Core(TM) i5-12400,12,42,5, 43363185
+12th Gen Intel(R) Core(TM) i5-12400,12,43,1, 42376068
+12th Gen Intel(R) Core(TM) i5-12400,12,43,2, 41091848
+12th Gen Intel(R) Core(TM) i5-12400,12,43,3, 41500784
+12th Gen Intel(R) Core(TM) i5-12400,12,43,4, 43273402
+12th Gen Intel(R) Core(TM) i5-12400,12,43,5, 44620122
+12th Gen Intel(R) Core(TM) i5-12400,12,44,1, 40847047
+12th Gen Intel(R) Core(TM) i5-12400,12,44,2, 41056032
+12th Gen Intel(R) Core(TM) i5-12400,12,44,3, 43492464
+12th Gen Intel(R) Core(TM) i5-12400,12,44,4, 43989954
+12th Gen Intel(R) Core(TM) i5-12400,12,44,5, 42487069
+12th Gen Intel(R) Core(TM) i5-12400,12,45,1, 43883568
+12th Gen Intel(R) Core(TM) i5-12400,12,45,2, 41508812
+12th Gen Intel(R) Core(TM) i5-12400,12,45,3, 42161054
+12th Gen Intel(R) Core(TM) i5-12400,12,45,4, 41551762
+12th Gen Intel(R) Core(TM) i5-12400,12,45,5, 42438002
+12th Gen Intel(R) Core(TM) i5-12400,12,46,1, 40419104
+12th Gen Intel(R) Core(TM) i5-12400,12,46,2, 40763462
+12th Gen Intel(R) Core(TM) i5-12400,12,46,3, 41001533
+12th Gen Intel(R) Core(TM) i5-12400,12,46,4, 43047872
+12th Gen Intel(R) Core(TM) i5-12400,12,46,5, 39858426
+12th Gen Intel(R) Core(TM) i5-12400,12,47,1, 40647699
+12th Gen Intel(R) Core(TM) i5-12400,12,47,2, 42411406
+12th Gen Intel(R) Core(TM) i5-12400,12,47,3, 40823277
+12th Gen Intel(R) Core(TM) i5-12400,12,47,4, 40844742
+12th Gen Intel(R) Core(TM) i5-12400,12,47,5, 41658034
+12th Gen Intel(R) Core(TM) i5-12400,12,48,1, 43025699
+12th Gen Intel(R) Core(TM) i5-12400,12,48,2, 40610303
+12th Gen Intel(R) Core(TM) i5-12400,12,48,3, 42455358
+12th Gen Intel(R) Core(TM) i5-12400,12,48,4, 41287347
+12th Gen Intel(R) Core(TM) i5-12400,12,48,5, 38996120
+12th Gen Intel(R) Core(TM) i5-12400,12,49,1, 42882833
+12th Gen Intel(R) Core(TM) i5-12400,12,49,2, 45374720
+12th Gen Intel(R) Core(TM) i5-12400,12,49,3, 43278317
+12th Gen Intel(R) Core(TM) i5-12400,12,49,4, 42289150
+12th Gen Intel(R) Core(TM) i5-12400,12,49,5, 42854788
+12th Gen Intel(R) Core(TM) i5-12400,12,50,1, 43010080
+12th Gen Intel(R) Core(TM) i5-12400,12,50,2, 42791611
+12th Gen Intel(R) Core(TM) i5-12400,12,50,3, 42446920
+12th Gen Intel(R) Core(TM) i5-12400,12,50,4, 43845650
+12th Gen Intel(R) Core(TM) i5-12400,12,50,5, 42933774
+12th Gen Intel(R) Core(TM) i5-12400,12,51,1, 43857582
+12th Gen Intel(R) Core(TM) i5-12400,12,51,2, 43375564
+12th Gen Intel(R) Core(TM) i5-12400,12,51,3, 41835593
+12th Gen Intel(R) Core(TM) i5-12400,12,51,4, 41592797
+12th Gen Intel(R) Core(TM) i5-12400,12,51,5, 44617424
+12th Gen Intel(R) Core(TM) i5-12400,12,52,1, 42815669
+12th Gen Intel(R) Core(TM) i5-12400,12,52,2, 41493542
+12th Gen Intel(R) Core(TM) i5-12400,12,52,3, 42343675
+12th Gen Intel(R) Core(TM) i5-12400,12,52,4, 42679916
+12th Gen Intel(R) Core(TM) i5-12400,12,52,5, 42241444
+12th Gen Intel(R) Core(TM) i5-12400,12,53,1, 41936985
+12th Gen Intel(R) Core(TM) i5-12400,12,53,2, 42147595
+12th Gen Intel(R) Core(TM) i5-12400,12,53,3, 41144884
+12th Gen Intel(R) Core(TM) i5-12400,12,53,4, 42756527
+12th Gen Intel(R) Core(TM) i5-12400,12,53,5, 41573127
+12th Gen Intel(R) Core(TM) i5-12400,12,54,1, 41168203
+12th Gen Intel(R) Core(TM) i5-12400,12,54,2, 40861787
+12th Gen Intel(R) Core(TM) i5-12400,12,54,3, 41597893
+12th Gen Intel(R) Core(TM) i5-12400,12,54,4, 41376875
+12th Gen Intel(R) Core(TM) i5-12400,12,54,5, 41938140
+12th Gen Intel(R) Core(TM) i5-12400,12,55,1, 41155641
+12th Gen Intel(R) Core(TM) i5-12400,12,55,2, 40721218
+12th Gen Intel(R) Core(TM) i5-12400,12,55,3, 42833483
+12th Gen Intel(R) Core(TM) i5-12400,12,55,4, 43423101
+12th Gen Intel(R) Core(TM) i5-12400,12,55,5, 40929049
+12th Gen Intel(R) Core(TM) i5-12400,12,56,1, 40465204
+12th Gen Intel(R) Core(TM) i5-12400,12,56,2, 41795135
+12th Gen Intel(R) Core(TM) i5-12400,12,56,3, 42033151
+12th Gen Intel(R) Core(TM) i5-12400,12,56,4, 41017024
+12th Gen Intel(R) Core(TM) i5-12400,12,56,5, 40675401
+12th Gen Intel(R) Core(TM) i5-12400,12,57,1, 42307279
+12th Gen Intel(R) Core(TM) i5-12400,12,57,2, 43274119
+12th Gen Intel(R) Core(TM) i5-12400,12,57,3, 42352953
+12th Gen Intel(R) Core(TM) i5-12400,12,57,4, 41692761
+12th Gen Intel(R) Core(TM) i5-12400,12,57,5, 41405177
+12th Gen Intel(R) Core(TM) i5-12400,12,58,1, 39622572
+12th Gen Intel(R) Core(TM) i5-12400,12,58,2, 41325717
+12th Gen Intel(R) Core(TM) i5-12400,12,58,3, 41241991
+12th Gen Intel(R) Core(TM) i5-12400,12,58,4, 42810037
+12th Gen Intel(R) Core(TM) i5-12400,12,58,5, 42584212
+12th Gen Intel(R) Core(TM) i5-12400,12,59,1, 45528736
+12th Gen Intel(R) Core(TM) i5-12400,12,59,2, 42356503
+12th Gen Intel(R) Core(TM) i5-12400,12,59,3, 40573035
+12th Gen Intel(R) Core(TM) i5-12400,12,59,4, 39779954
+12th Gen Intel(R) Core(TM) i5-12400,12,59,5, 41807538
+12th Gen Intel(R) Core(TM) i5-12400,12,60,1, 42430984
+12th Gen Intel(R) Core(TM) i5-12400,12,60,2, 43021713
+12th Gen Intel(R) Core(TM) i5-12400,12,60,3, 40925699
+12th Gen Intel(R) Core(TM) i5-12400,12,60,4, 42345999
+12th Gen Intel(R) Core(TM) i5-12400,12,60,5, 42747698
+12th Gen Intel(R) Core(TM) i5-12400,12,61,1, 42389643
+12th Gen Intel(R) Core(TM) i5-12400,12,61,2, 41674243
+12th Gen Intel(R) Core(TM) i5-12400,12,61,3, 41988825
+12th Gen Intel(R) Core(TM) i5-12400,12,61,4, 42989912
+12th Gen Intel(R) Core(TM) i5-12400,12,61,5, 41969660
+12th Gen Intel(R) Core(TM) i5-12400,12,62,1, 41658197
+12th Gen Intel(R) Core(TM) i5-12400,12,62,2, 41752033
+12th Gen Intel(R) Core(TM) i5-12400,12,62,3, 42085051
+12th Gen Intel(R) Core(TM) i5-12400,12,62,4, 41873482
+12th Gen Intel(R) Core(TM) i5-12400,12,62,5, 42499989
+12th Gen Intel(R) Core(TM) i5-12400,12,63,1, 42164485
+12th Gen Intel(R) Core(TM) i5-12400,12,63,2, 42220632
+12th Gen Intel(R) Core(TM) i5-12400,12,63,3, 42881976
+12th Gen Intel(R) Core(TM) i5-12400,12,63,4, 42416206
+12th Gen Intel(R) Core(TM) i5-12400,12,63,5, 41211694
+12th Gen Intel(R) Core(TM) i5-12400,12,64,1, 40802953
+12th Gen Intel(R) Core(TM) i5-12400,12,64,2, 41627613
+12th Gen Intel(R) Core(TM) i5-12400,12,64,3, 42049738
+12th Gen Intel(R) Core(TM) i5-12400,12,64,4, 41915395
+12th Gen Intel(R) Core(TM) i5-12400,12,64,5, 42063802
+12th Gen Intel(R) Core(TM) i5-12400,12,65,1, 41432563
+12th Gen Intel(R) Core(TM) i5-12400,12,65,2, 41922401
+12th Gen Intel(R) Core(TM) i5-12400,12,65,3, 42708272
+12th Gen Intel(R) Core(TM) i5-12400,12,65,4, 41652481
+12th Gen Intel(R) Core(TM) i5-12400,12,65,5, 41630189
+12th Gen Intel(R) Core(TM) i5-12400,12,66,1, 41319239
+12th Gen Intel(R) Core(TM) i5-12400,12,66,2, 41307305
+12th Gen Intel(R) Core(TM) i5-12400,12,66,3, 41210570
+12th Gen Intel(R) Core(TM) i5-12400,12,66,4, 41036136
+12th Gen Intel(R) Core(TM) i5-12400,12,66,5, 41230733
+12th Gen Intel(R) Core(TM) i5-12400,12,67,1, 41043557
+12th Gen Intel(R) Core(TM) i5-12400,12,67,2, 41568600
+12th Gen Intel(R) Core(TM) i5-12400,12,67,3, 40964950
+12th Gen Intel(R) Core(TM) i5-12400,12,67,4, 40385489
+12th Gen Intel(R) Core(TM) i5-12400,12,67,5, 41616334
+12th Gen Intel(R) Core(TM) i5-12400,12,68,1, 40754010
+12th Gen Intel(R) Core(TM) i5-12400,12,68,2, 39991169
+12th Gen Intel(R) Core(TM) i5-12400,12,68,3, 41854153
+12th Gen Intel(R) Core(TM) i5-12400,12,68,4, 41800966
+12th Gen Intel(R) Core(TM) i5-12400,12,68,5, 41026171
+12th Gen Intel(R) Core(TM) i5-12400,12,69,1, 42586305
+12th Gen Intel(R) Core(TM) i5-12400,12,69,2, 40773631
+12th Gen Intel(R) Core(TM) i5-12400,12,69,3, 41252896
+12th Gen Intel(R) Core(TM) i5-12400,12,69,4, 40414203
+12th Gen Intel(R) Core(TM) i5-12400,12,69,5, 41498741
+12th Gen Intel(R) Core(TM) i5-12400,12,70,1, 42986903
+12th Gen Intel(R) Core(TM) i5-12400,12,70,2, 41614531
+12th Gen Intel(R) Core(TM) i5-12400,12,70,3, 42618073
+12th Gen Intel(R) Core(TM) i5-12400,12,70,4, 41286415
+12th Gen Intel(R) Core(TM) i5-12400,12,70,5, 40687929
+12th Gen Intel(R) Core(TM) i5-12400,12,71,1, 41071508
+12th Gen Intel(R) Core(TM) i5-12400,12,71,2, 41968301
+12th Gen Intel(R) Core(TM) i5-12400,12,71,3, 42656352
+12th Gen Intel(R) Core(TM) i5-12400,12,71,4, 43672487
+12th Gen Intel(R) Core(TM) i5-12400,12,71,5, 43390308
+12th Gen Intel(R) Core(TM) i5-12400,12,72,1, 41743422
+12th Gen Intel(R) Core(TM) i5-12400,12,72,2, 41563413
+12th Gen Intel(R) Core(TM) i5-12400,12,72,3, 42363557
+12th Gen Intel(R) Core(TM) i5-12400,12,72,4, 42696094
+12th Gen Intel(R) Core(TM) i5-12400,12,72,5, 42411601
+12th Gen Intel(R) Core(TM) i5-12400,12,73,1, 42990409
+12th Gen Intel(R) Core(TM) i5-12400,12,73,2, 41828301
+12th Gen Intel(R) Core(TM) i5-12400,12,73,3, 42881611
+12th Gen Intel(R) Core(TM) i5-12400,12,73,4, 43223593
+12th Gen Intel(R) Core(TM) i5-12400,12,73,5, 43705542
+12th Gen Intel(R) Core(TM) i5-12400,12,74,1, 41307428
+12th Gen Intel(R) Core(TM) i5-12400,12,74,2, 42501873
+12th Gen Intel(R) Core(TM) i5-12400,12,74,3, 42351009
+12th Gen Intel(R) Core(TM) i5-12400,12,74,4, 41991892
+12th Gen Intel(R) Core(TM) i5-12400,12,74,5, 41560109
+12th Gen Intel(R) Core(TM) i5-12400,12,75,1, 42283773
+12th Gen Intel(R) Core(TM) i5-12400,12,75,2, 41411147
+12th Gen Intel(R) Core(TM) i5-12400,12,75,3, 41719941
+12th Gen Intel(R) Core(TM) i5-12400,12,75,4, 40809195
+12th Gen Intel(R) Core(TM) i5-12400,12,75,5, 40610124
+12th Gen Intel(R) Core(TM) i5-12400,12,76,1, 40711032
+12th Gen Intel(R) Core(TM) i5-12400,12,76,2, 40825702
+12th Gen Intel(R) Core(TM) i5-12400,12,76,3, 42076501
+12th Gen Intel(R) Core(TM) i5-12400,12,76,4, 41289129
+12th Gen Intel(R) Core(TM) i5-12400,12,76,5, 41371296
+12th Gen Intel(R) Core(TM) i5-12400,12,77,1, 42467424
+12th Gen Intel(R) Core(TM) i5-12400,12,77,2, 40971705
+12th Gen Intel(R) Core(TM) i5-12400,12,77,3, 41976241
+12th Gen Intel(R) Core(TM) i5-12400,12,77,4, 40849723
+12th Gen Intel(R) Core(TM) i5-12400,12,77,5, 41720713
+12th Gen Intel(R) Core(TM) i5-12400,12,78,1, 40591861
+12th Gen Intel(R) Core(TM) i5-12400,12,78,2, 40844112
+12th Gen Intel(R) Core(TM) i5-12400,12,78,3, 40906798
+12th Gen Intel(R) Core(TM) i5-12400,12,78,4, 40658549
+12th Gen Intel(R) Core(TM) i5-12400,12,78,5, 40939649
+12th Gen Intel(R) Core(TM) i5-12400,12,79,1, 41920364
+12th Gen Intel(R) Core(TM) i5-12400,12,79,2, 42883096
+12th Gen Intel(R) Core(TM) i5-12400,12,79,3, 40905223
+12th Gen Intel(R) Core(TM) i5-12400,12,79,4, 40766618
+12th Gen Intel(R) Core(TM) i5-12400,12,79,5, 41964944
+12th Gen Intel(R) Core(TM) i5-12400,12,80,1, 45154300
+12th Gen Intel(R) Core(TM) i5-12400,12,80,2, 42203838
+12th Gen Intel(R) Core(TM) i5-12400,12,80,3, 44802830
+12th Gen Intel(R) Core(TM) i5-12400,12,80,4, 42616243
+12th Gen Intel(R) Core(TM) i5-12400,12,80,5, 40456213
+12th Gen Intel(R) Core(TM) i5-12400,12,81,1, 43481541
+12th Gen Intel(R) Core(TM) i5-12400,12,81,2, 40122072
+12th Gen Intel(R) Core(TM) i5-12400,12,81,3, 42829901
+12th Gen Intel(R) Core(TM) i5-12400,12,81,4, 41202779
+12th Gen Intel(R) Core(TM) i5-12400,12,81,5, 39255419
+12th Gen Intel(R) Core(TM) i5-12400,12,82,1, 42202286
+12th Gen Intel(R) Core(TM) i5-12400,12,82,2, 41580948
+12th Gen Intel(R) Core(TM) i5-12400,12,82,3, 41345170
+12th Gen Intel(R) Core(TM) i5-12400,12,82,4, 43426703
+12th Gen Intel(R) Core(TM) i5-12400,12,82,5, 42939149
+12th Gen Intel(R) Core(TM) i5-12400,12,83,1, 43233913
+12th Gen Intel(R) Core(TM) i5-12400,12,83,2, 42089260
+12th Gen Intel(R) Core(TM) i5-12400,12,83,3, 41505171
+12th Gen Intel(R) Core(TM) i5-12400,12,83,4, 42396580
+12th Gen Intel(R) Core(TM) i5-12400,12,83,5, 42225372
+12th Gen Intel(R) Core(TM) i5-12400,12,84,1, 42096670
+12th Gen Intel(R) Core(TM) i5-12400,12,84,2, 41490373
+12th Gen Intel(R) Core(TM) i5-12400,12,84,3, 41316936
+12th Gen Intel(R) Core(TM) i5-12400,12,84,4, 42547287
+12th Gen Intel(R) Core(TM) i5-12400,12,84,5, 41761167
+12th Gen Intel(R) Core(TM) i5-12400,12,85,1, 41425302
+12th Gen Intel(R) Core(TM) i5-12400,12,85,2, 41727212
+12th Gen Intel(R) Core(TM) i5-12400,12,85,3, 41665974
+12th Gen Intel(R) Core(TM) i5-12400,12,85,4, 42675681
+12th Gen Intel(R) Core(TM) i5-12400,12,85,5, 41484013
+12th Gen Intel(R) Core(TM) i5-12400,12,86,1, 41544812
+12th Gen Intel(R) Core(TM) i5-12400,12,86,2, 41763161
+12th Gen Intel(R) Core(TM) i5-12400,12,86,3, 40933754
+12th Gen Intel(R) Core(TM) i5-12400,12,86,4, 42165905
+12th Gen Intel(R) Core(TM) i5-12400,12,86,5, 41678704
+12th Gen Intel(R) Core(TM) i5-12400,12,87,1, 41825621
+12th Gen Intel(R) Core(TM) i5-12400,12,87,2, 42491416
+12th Gen Intel(R) Core(TM) i5-12400,12,87,3, 40837347
+12th Gen Intel(R) Core(TM) i5-12400,12,87,4, 41881813
+12th Gen Intel(R) Core(TM) i5-12400,12,87,5, 40745393
+12th Gen Intel(R) Core(TM) i5-12400,12,88,1, 40583186
+12th Gen Intel(R) Core(TM) i5-12400,12,88,2, 42175074
+12th Gen Intel(R) Core(TM) i5-12400,12,88,3, 40613818
+12th Gen Intel(R) Core(TM) i5-12400,12,88,4, 41207555
+12th Gen Intel(R) Core(TM) i5-12400,12,88,5, 40810630
+12th Gen Intel(R) Core(TM) i5-12400,12,89,1, 40701646
+12th Gen Intel(R) Core(TM) i5-12400,12,89,2, 41719699
+12th Gen Intel(R) Core(TM) i5-12400,12,89,3, 42786865
+12th Gen Intel(R) Core(TM) i5-12400,12,89,4, 41903354
+12th Gen Intel(R) Core(TM) i5-12400,12,89,5, 41687938
+12th Gen Intel(R) Core(TM) i5-12400,12,90,1, 42045441
+12th Gen Intel(R) Core(TM) i5-12400,12,90,2, 40787604
+12th Gen Intel(R) Core(TM) i5-12400,12,90,3, 42327718
+12th Gen Intel(R) Core(TM) i5-12400,12,90,4, 40228606
+12th Gen Intel(R) Core(TM) i5-12400,12,90,5, 40827835
+12th Gen Intel(R) Core(TM) i5-12400,12,91,1, 40379199
+12th Gen Intel(R) Core(TM) i5-12400,12,91,2, 41105498
+12th Gen Intel(R) Core(TM) i5-12400,12,91,3, 40943534
+12th Gen Intel(R) Core(TM) i5-12400,12,91,4, 42785180
+12th Gen Intel(R) Core(TM) i5-12400,12,91,5, 40563389
+12th Gen Intel(R) Core(TM) i5-12400,12,92,1, 43286099
+12th Gen Intel(R) Core(TM) i5-12400,12,92,2, 41554148
+12th Gen Intel(R) Core(TM) i5-12400,12,92,3, 41566682
+12th Gen Intel(R) Core(TM) i5-12400,12,92,4, 42157098
+12th Gen Intel(R) Core(TM) i5-12400,12,92,5, 43172219
+12th Gen Intel(R) Core(TM) i5-12400,12,93,1, 41752654
+12th Gen Intel(R) Core(TM) i5-12400,12,93,2, 42339096
+12th Gen Intel(R) Core(TM) i5-12400,12,93,3, 41652488
+12th Gen Intel(R) Core(TM) i5-12400,12,93,4, 41971294
+12th Gen Intel(R) Core(TM) i5-12400,12,93,5, 41024820
+12th Gen Intel(R) Core(TM) i5-12400,12,94,1, 40892939
+12th Gen Intel(R) Core(TM) i5-12400,12,94,2, 39553173
+12th Gen Intel(R) Core(TM) i5-12400,12,94,3, 39476830
+12th Gen Intel(R) Core(TM) i5-12400,12,94,4, 40060989
+12th Gen Intel(R) Core(TM) i5-12400,12,94,5, 41889327
+12th Gen Intel(R) Core(TM) i5-12400,12,95,1, 41925603
+12th Gen Intel(R) Core(TM) i5-12400,12,95,2, 41470443
+12th Gen Intel(R) Core(TM) i5-12400,12,95,3, 42327032
+12th Gen Intel(R) Core(TM) i5-12400,12,95,4, 41618736
+12th Gen Intel(R) Core(TM) i5-12400,12,95,5, 42169461
+12th Gen Intel(R) Core(TM) i5-12400,12,96,1, 43066546
+12th Gen Intel(R) Core(TM) i5-12400,12,96,2, 41733445
+12th Gen Intel(R) Core(TM) i5-12400,12,96,3, 41725118
+12th Gen Intel(R) Core(TM) i5-12400,12,96,4, 41600211
+12th Gen Intel(R) Core(TM) i5-12400,12,96,5, 41892430
+12th Gen Intel(R) Core(TM) i5-12400,12,97,1, 40676522
+12th Gen Intel(R) Core(TM) i5-12400,12,97,2, 40628418
+12th Gen Intel(R) Core(TM) i5-12400,12,97,3, 41897163
+12th Gen Intel(R) Core(TM) i5-12400,12,97,4, 40324171
+12th Gen Intel(R) Core(TM) i5-12400,12,97,5, 40736009
+12th Gen Intel(R) Core(TM) i5-12400,12,98,1, 40912431
+12th Gen Intel(R) Core(TM) i5-12400,12,98,2, 41226857
+12th Gen Intel(R) Core(TM) i5-12400,12,98,3, 42635151
+12th Gen Intel(R) Core(TM) i5-12400,12,98,4, 41711316
+12th Gen Intel(R) Core(TM) i5-12400,12,98,5, 40985724
+12th Gen Intel(R) Core(TM) i5-12400,12,99,1, 41219040
+12th Gen Intel(R) Core(TM) i5-12400,12,99,2, 42298416
+12th Gen Intel(R) Core(TM) i5-12400,12,99,3, 41045090
+12th Gen Intel(R) Core(TM) i5-12400,12,99,4, 41153461
+12th Gen Intel(R) Core(TM) i5-12400,12,99,5, 41884215
+12th Gen Intel(R) Core(TM) i5-12400,12,100,1, 41384847
+12th Gen Intel(R) Core(TM) i5-12400,12,100,2, 41348069
+12th Gen Intel(R) Core(TM) i5-12400,12,100,3, 40883577
+12th Gen Intel(R) Core(TM) i5-12400,12,100,4, 41919566
+12th Gen Intel(R) Core(TM) i5-12400,12,100,5, 41021447
+12th Gen Intel(R) Core(TM) i5-12400,12,101,1, 41697023
+12th Gen Intel(R) Core(TM) i5-12400,12,101,2, 43056125
+12th Gen Intel(R) Core(TM) i5-12400,12,101,3, 41199160
+12th Gen Intel(R) Core(TM) i5-12400,12,101,4, 43400288
+12th Gen Intel(R) Core(TM) i5-12400,12,101,5, 40694152
+12th Gen Intel(R) Core(TM) i5-12400,12,102,1, 41401046
+12th Gen Intel(R) Core(TM) i5-12400,12,102,2, 40364754
+12th Gen Intel(R) Core(TM) i5-12400,12,102,3, 41804841
+12th Gen Intel(R) Core(TM) i5-12400,12,102,4, 40991805
+12th Gen Intel(R) Core(TM) i5-12400,12,102,5, 40450747
+12th Gen Intel(R) Core(TM) i5-12400,12,103,1, 42464632
+12th Gen Intel(R) Core(TM) i5-12400,12,103,2, 42333859
+12th Gen Intel(R) Core(TM) i5-12400,12,103,3, 40492058
+12th Gen Intel(R) Core(TM) i5-12400,12,103,4, 41012827
+12th Gen Intel(R) Core(TM) i5-12400,12,103,5, 42215200
+12th Gen Intel(R) Core(TM) i5-12400,12,104,1, 40813440
+12th Gen Intel(R) Core(TM) i5-12400,12,104,2, 39944681
+12th Gen Intel(R) Core(TM) i5-12400,12,104,3, 41736850
+12th Gen Intel(R) Core(TM) i5-12400,12,104,4, 39723933
+12th Gen Intel(R) Core(TM) i5-12400,12,104,5, 41511979
+12th Gen Intel(R) Core(TM) i5-12400,12,105,1, 41299328
+12th Gen Intel(R) Core(TM) i5-12400,12,105,2, 40568623
+12th Gen Intel(R) Core(TM) i5-12400,12,105,3, 40926929
+12th Gen Intel(R) Core(TM) i5-12400,12,105,4, 39825769
+12th Gen Intel(R) Core(TM) i5-12400,12,105,5, 41966337
+12th Gen Intel(R) Core(TM) i5-12400,12,106,1, 41147592
+12th Gen Intel(R) Core(TM) i5-12400,12,106,2, 42495353
+12th Gen Intel(R) Core(TM) i5-12400,12,106,3, 41781953
+12th Gen Intel(R) Core(TM) i5-12400,12,106,4, 42036279
+12th Gen Intel(R) Core(TM) i5-12400,12,106,5, 41726430
+12th Gen Intel(R) Core(TM) i5-12400,12,107,1, 41246795
+12th Gen Intel(R) Core(TM) i5-12400,12,107,2, 43298395
+12th Gen Intel(R) Core(TM) i5-12400,12,107,3, 40625821
+12th Gen Intel(R) Core(TM) i5-12400,12,107,4, 41019964
+12th Gen Intel(R) Core(TM) i5-12400,12,107,5, 41829796
+12th Gen Intel(R) Core(TM) i5-12400,12,108,1, 41594777
+12th Gen Intel(R) Core(TM) i5-12400,12,108,2, 41196242
+12th Gen Intel(R) Core(TM) i5-12400,12,108,3, 41177243
+12th Gen Intel(R) Core(TM) i5-12400,12,108,4, 42078117
+12th Gen Intel(R) Core(TM) i5-12400,12,108,5, 41923698
+12th Gen Intel(R) Core(TM) i5-12400,12,109,1, 41409748
+12th Gen Intel(R) Core(TM) i5-12400,12,109,2, 41370614
+12th Gen Intel(R) Core(TM) i5-12400,12,109,3, 41707854
+12th Gen Intel(R) Core(TM) i5-12400,12,109,4, 41148063
+12th Gen Intel(R) Core(TM) i5-12400,12,109,5, 41258898
+12th Gen Intel(R) Core(TM) i5-12400,12,110,1, 41546780
+12th Gen Intel(R) Core(TM) i5-12400,12,110,2, 41343646
+12th Gen Intel(R) Core(TM) i5-12400,12,110,3, 40617023
+12th Gen Intel(R) Core(TM) i5-12400,12,110,4, 40875130
+12th Gen Intel(R) Core(TM) i5-12400,12,110,5, 42066256
+12th Gen Intel(R) Core(TM) i5-12400,12,111,1, 40232756
+12th Gen Intel(R) Core(TM) i5-12400,12,111,2, 40606261
+12th Gen Intel(R) Core(TM) i5-12400,12,111,3, 41234292
+12th Gen Intel(R) Core(TM) i5-12400,12,111,4, 40751420
+12th Gen Intel(R) Core(TM) i5-12400,12,111,5, 40799453
+12th Gen Intel(R) Core(TM) i5-12400,12,112,1, 42751580
+12th Gen Intel(R) Core(TM) i5-12400,12,112,2, 40531279
+12th Gen Intel(R) Core(TM) i5-12400,12,112,3, 41751041
+12th Gen Intel(R) Core(TM) i5-12400,12,112,4, 41985441
+12th Gen Intel(R) Core(TM) i5-12400,12,112,5, 41024457
+12th Gen Intel(R) Core(TM) i5-12400,12,113,1, 41314462
+12th Gen Intel(R) Core(TM) i5-12400,12,113,2, 40867193
+12th Gen Intel(R) Core(TM) i5-12400,12,113,3, 41580344
+12th Gen Intel(R) Core(TM) i5-12400,12,113,4, 42274649
+12th Gen Intel(R) Core(TM) i5-12400,12,113,5, 41913672
+12th Gen Intel(R) Core(TM) i5-12400,12,114,1, 39923489
+12th Gen Intel(R) Core(TM) i5-12400,12,114,2, 42213075
+12th Gen Intel(R) Core(TM) i5-12400,12,114,3, 41261808
+12th Gen Intel(R) Core(TM) i5-12400,12,114,4, 40551629
+12th Gen Intel(R) Core(TM) i5-12400,12,114,5, 40934837
+12th Gen Intel(R) Core(TM) i5-12400,12,115,1, 41808066
+12th Gen Intel(R) Core(TM) i5-12400,12,115,2, 43029952
+12th Gen Intel(R) Core(TM) i5-12400,12,115,3, 41317352
+12th Gen Intel(R) Core(TM) i5-12400,12,115,4, 41966049
+12th Gen Intel(R) Core(TM) i5-12400,12,115,5, 40557378
+12th Gen Intel(R) Core(TM) i5-12400,12,116,1, 42870476
+12th Gen Intel(R) Core(TM) i5-12400,12,116,2, 40096432
+12th Gen Intel(R) Core(TM) i5-12400,12,116,3, 42171607
+12th Gen Intel(R) Core(TM) i5-12400,12,116,4, 42263607
+12th Gen Intel(R) Core(TM) i5-12400,12,116,5, 42988580
+12th Gen Intel(R) Core(TM) i5-12400,12,117,1, 42070470
+12th Gen Intel(R) Core(TM) i5-12400,12,117,2, 41871026
+12th Gen Intel(R) Core(TM) i5-12400,12,117,3, 41858322
+12th Gen Intel(R) Core(TM) i5-12400,12,117,4, 40841587
+12th Gen Intel(R) Core(TM) i5-12400,12,117,5, 41269112
+12th Gen Intel(R) Core(TM) i5-12400,12,118,1, 41111245
+12th Gen Intel(R) Core(TM) i5-12400,12,118,2, 41177303
+12th Gen Intel(R) Core(TM) i5-12400,12,118,3, 42296560
+12th Gen Intel(R) Core(TM) i5-12400,12,118,4, 41790011
+12th Gen Intel(R) Core(TM) i5-12400,12,118,5, 42526282
+12th Gen Intel(R) Core(TM) i5-12400,12,119,1, 40950660
+12th Gen Intel(R) Core(TM) i5-12400,12,119,2, 41210954
+12th Gen Intel(R) Core(TM) i5-12400,12,119,3, 40957695
+12th Gen Intel(R) Core(TM) i5-12400,12,119,4, 41634196
+12th Gen Intel(R) Core(TM) i5-12400,12,119,5, 41527260
+12th Gen Intel(R) Core(TM) i5-12400,12,120,1, 46619883
+12th Gen Intel(R) Core(TM) i5-12400,12,120,2, 40929927
+12th Gen Intel(R) Core(TM) i5-12400,12,120,3, 40920462
+12th Gen Intel(R) Core(TM) i5-12400,12,120,4, 41514562
+12th Gen Intel(R) Core(TM) i5-12400,12,120,5, 41738429
+12th Gen Intel(R) Core(TM) i5-12400,12,121,1, 47374880
+12th Gen Intel(R) Core(TM) i5-12400,12,121,2, 40809457
+12th Gen Intel(R) Core(TM) i5-12400,12,121,3, 41479559
+12th Gen Intel(R) Core(TM) i5-12400,12,121,4, 41423446
+12th Gen Intel(R) Core(TM) i5-12400,12,121,5, 41484940
+12th Gen Intel(R) Core(TM) i5-12400,12,122,1, 44346866
+12th Gen Intel(R) Core(TM) i5-12400,12,122,2, 40594517
+12th Gen Intel(R) Core(TM) i5-12400,12,122,3, 41375851
+12th Gen Intel(R) Core(TM) i5-12400,12,122,4, 40980252
+12th Gen Intel(R) Core(TM) i5-12400,12,122,5, 40842824
+12th Gen Intel(R) Core(TM) i5-12400,12,123,1, 44445751
+12th Gen Intel(R) Core(TM) i5-12400,12,123,2, 41011925
+12th Gen Intel(R) Core(TM) i5-12400,12,123,3, 43506183
+12th Gen Intel(R) Core(TM) i5-12400,12,123,4, 41777344
+12th Gen Intel(R) Core(TM) i5-12400,12,123,5, 40711656
+12th Gen Intel(R) Core(TM) i5-12400,12,124,1, 49394380
+12th Gen Intel(R) Core(TM) i5-12400,12,124,2, 41668755
+12th Gen Intel(R) Core(TM) i5-12400,12,124,3, 40366833
+12th Gen Intel(R) Core(TM) i5-12400,12,124,4, 40665776
+12th Gen Intel(R) Core(TM) i5-12400,12,124,5, 40711775
+12th Gen Intel(R) Core(TM) i5-12400,12,125,1, 47434660
+12th Gen Intel(R) Core(TM) i5-12400,12,125,2, 41060009
+12th Gen Intel(R) Core(TM) i5-12400,12,125,3, 42620359
+12th Gen Intel(R) Core(TM) i5-12400,12,125,4, 41751030
+12th Gen Intel(R) Core(TM) i5-12400,12,125,5, 40621025
+12th Gen Intel(R) Core(TM) i5-12400,12,126,1, 42071948
+12th Gen Intel(R) Core(TM) i5-12400,12,126,2, 41889495
+12th Gen Intel(R) Core(TM) i5-12400,12,126,3, 42534101
+12th Gen Intel(R) Core(TM) i5-12400,12,126,4, 41371660
+12th Gen Intel(R) Core(TM) i5-12400,12,126,5, 42164927
+12th Gen Intel(R) Core(TM) i5-12400,12,127,1, 45455519
+12th Gen Intel(R) Core(TM) i5-12400,12,127,2, 42091108
+12th Gen Intel(R) Core(TM) i5-12400,12,127,3, 41623820
+12th Gen Intel(R) Core(TM) i5-12400,12,127,4, 42596285
+12th Gen Intel(R) Core(TM) i5-12400,12,127,5, 41760959
+12th Gen Intel(R) Core(TM) i5-12400,12,128,1, 46199044
+12th Gen Intel(R) Core(TM) i5-12400,12,128,2, 42045375
+12th Gen Intel(R) Core(TM) i5-12400,12,128,3, 41542498
+12th Gen Intel(R) Core(TM) i5-12400,12,128,4, 41468283
+12th Gen Intel(R) Core(TM) i5-12400,12,128,5, 41297877
+12th Gen Intel(R) Core(TM) i5-12400,12,129,1, 46571239
+12th Gen Intel(R) Core(TM) i5-12400,12,129,2, 42167350
+12th Gen Intel(R) Core(TM) i5-12400,12,129,3, 40833249
+12th Gen Intel(R) Core(TM) i5-12400,12,129,4, 41586681
+12th Gen Intel(R) Core(TM) i5-12400,12,129,5, 41670903
+12th Gen Intel(R) Core(TM) i5-12400,12,130,1, 49619902
+12th Gen Intel(R) Core(TM) i5-12400,12,130,2, 41673255
+12th Gen Intel(R) Core(TM) i5-12400,12,130,3, 41077335
+12th Gen Intel(R) Core(TM) i5-12400,12,130,4, 41739488
+12th Gen Intel(R) Core(TM) i5-12400,12,130,5, 42008664
+12th Gen Intel(R) Core(TM) i5-12400,12,131,1, 46227007
+12th Gen Intel(R) Core(TM) i5-12400,12,131,2, 40702290
+12th Gen Intel(R) Core(TM) i5-12400,12,131,3, 41179013
+12th Gen Intel(R) Core(TM) i5-12400,12,131,4, 41227503
+12th Gen Intel(R) Core(TM) i5-12400,12,131,5, 40923424
+12th Gen Intel(R) Core(TM) i5-12400,12,132,1, 47376961
+12th Gen Intel(R) Core(TM) i5-12400,12,132,2, 40888762
+12th Gen Intel(R) Core(TM) i5-12400,12,132,3, 41568517
+12th Gen Intel(R) Core(TM) i5-12400,12,132,4, 41536230
+12th Gen Intel(R) Core(TM) i5-12400,12,132,5, 40860128
+12th Gen Intel(R) Core(TM) i5-12400,12,133,1, 43899509
+12th Gen Intel(R) Core(TM) i5-12400,12,133,2, 41050954
+12th Gen Intel(R) Core(TM) i5-12400,12,133,3, 41015332
+12th Gen Intel(R) Core(TM) i5-12400,12,133,4, 41485896
+12th Gen Intel(R) Core(TM) i5-12400,12,133,5, 41683373
+12th Gen Intel(R) Core(TM) i5-12400,12,134,1, 42277540
+12th Gen Intel(R) Core(TM) i5-12400,12,134,2, 41090203
+12th Gen Intel(R) Core(TM) i5-12400,12,134,3, 40612317
+12th Gen Intel(R) Core(TM) i5-12400,12,134,4, 41250395
+12th Gen Intel(R) Core(TM) i5-12400,12,134,5, 40886295
+12th Gen Intel(R) Core(TM) i5-12400,12,135,1, 42747167
+12th Gen Intel(R) Core(TM) i5-12400,12,135,2, 41268624
+12th Gen Intel(R) Core(TM) i5-12400,12,135,3, 40655143
+12th Gen Intel(R) Core(TM) i5-12400,12,135,4, 41186883
+12th Gen Intel(R) Core(TM) i5-12400,12,135,5, 41014206
+12th Gen Intel(R) Core(TM) i5-12400,12,136,1, 42667138
+12th Gen Intel(R) Core(TM) i5-12400,12,136,2, 42018431
+12th Gen Intel(R) Core(TM) i5-12400,12,136,3, 42491206
+12th Gen Intel(R) Core(TM) i5-12400,12,136,4, 40556265
+12th Gen Intel(R) Core(TM) i5-12400,12,136,5, 42294191
+12th Gen Intel(R) Core(TM) i5-12400,12,137,1, 43064501
+12th Gen Intel(R) Core(TM) i5-12400,12,137,2, 41945986
+12th Gen Intel(R) Core(TM) i5-12400,12,137,3, 42677809
+12th Gen Intel(R) Core(TM) i5-12400,12,137,4, 41224255
+12th Gen Intel(R) Core(TM) i5-12400,12,137,5, 41753532
+12th Gen Intel(R) Core(TM) i5-12400,12,138,1, 45046926
+12th Gen Intel(R) Core(TM) i5-12400,12,138,2, 40863244
+12th Gen Intel(R) Core(TM) i5-12400,12,138,3, 42154578
+12th Gen Intel(R) Core(TM) i5-12400,12,138,4, 41921898
+12th Gen Intel(R) Core(TM) i5-12400,12,138,5, 42088226
+12th Gen Intel(R) Core(TM) i5-12400,12,139,1, 46792761
+12th Gen Intel(R) Core(TM) i5-12400,12,139,2, 41552216
+12th Gen Intel(R) Core(TM) i5-12400,12,139,3, 41079276
+12th Gen Intel(R) Core(TM) i5-12400,12,139,4, 43557937
+12th Gen Intel(R) Core(TM) i5-12400,12,139,5, 41378024
+12th Gen Intel(R) Core(TM) i5-12400,12,140,1, 45862631
+12th Gen Intel(R) Core(TM) i5-12400,12,140,2, 41619394
+12th Gen Intel(R) Core(TM) i5-12400,12,140,3, 42484913
+12th Gen Intel(R) Core(TM) i5-12400,12,140,4, 41757416
+12th Gen Intel(R) Core(TM) i5-12400,12,140,5, 41609429
+12th Gen Intel(R) Core(TM) i5-12400,12,141,1, 44629134
+12th Gen Intel(R) Core(TM) i5-12400,12,141,2, 40112981
+12th Gen Intel(R) Core(TM) i5-12400,12,141,3, 41551411
+12th Gen Intel(R) Core(TM) i5-12400,12,141,4, 41964659
+12th Gen Intel(R) Core(TM) i5-12400,12,141,5, 40896671
+12th Gen Intel(R) Core(TM) i5-12400,12,142,1, 45611477
+12th Gen Intel(R) Core(TM) i5-12400,12,142,2, 42726586
+12th Gen Intel(R) Core(TM) i5-12400,12,142,3, 40716698
+12th Gen Intel(R) Core(TM) i5-12400,12,142,4, 40897834
+12th Gen Intel(R) Core(TM) i5-12400,12,142,5, 42235162
+12th Gen Intel(R) Core(TM) i5-12400,12,143,1, 47198945
+12th Gen Intel(R) Core(TM) i5-12400,12,143,2, 40673684
+12th Gen Intel(R) Core(TM) i5-12400,12,143,3, 41435923
+12th Gen Intel(R) Core(TM) i5-12400,12,143,4, 40919142
+12th Gen Intel(R) Core(TM) i5-12400,12,143,5, 42302440
+12th Gen Intel(R) Core(TM) i5-12400,12,144,1, 47557321
+12th Gen Intel(R) Core(TM) i5-12400,12,144,2, 41618171
+12th Gen Intel(R) Core(TM) i5-12400,12,144,3, 43566553
+12th Gen Intel(R) Core(TM) i5-12400,12,144,4, 40604788
+12th Gen Intel(R) Core(TM) i5-12400,12,144,5, 42777520
+12th Gen Intel(R) Core(TM) i5-12400,12,145,1, 46998428
+12th Gen Intel(R) Core(TM) i5-12400,12,145,2, 40920569
+12th Gen Intel(R) Core(TM) i5-12400,12,145,3, 43667130
+12th Gen Intel(R) Core(TM) i5-12400,12,145,4, 40616067
+12th Gen Intel(R) Core(TM) i5-12400,12,145,5, 42191076
+12th Gen Intel(R) Core(TM) i5-12400,12,146,1, 46514865
+12th Gen Intel(R) Core(TM) i5-12400,12,146,2, 43200892
+12th Gen Intel(R) Core(TM) i5-12400,12,146,3, 42540002
+12th Gen Intel(R) Core(TM) i5-12400,12,146,4, 40992189
+12th Gen Intel(R) Core(TM) i5-12400,12,146,5, 40413001
+12th Gen Intel(R) Core(TM) i5-12400,12,147,1, 44380009
+12th Gen Intel(R) Core(TM) i5-12400,12,147,2, 42208077
+12th Gen Intel(R) Core(TM) i5-12400,12,147,3, 42077681
+12th Gen Intel(R) Core(TM) i5-12400,12,147,4, 41517194
+12th Gen Intel(R) Core(TM) i5-12400,12,147,5, 40548920
+12th Gen Intel(R) Core(TM) i5-12400,12,148,1, 44700452
+12th Gen Intel(R) Core(TM) i5-12400,12,148,2, 41763056
+12th Gen Intel(R) Core(TM) i5-12400,12,148,3, 42778060
+12th Gen Intel(R) Core(TM) i5-12400,12,148,4, 42465260
+12th Gen Intel(R) Core(TM) i5-12400,12,148,5, 42034569
+12th Gen Intel(R) Core(TM) i5-12400,12,149,1, 44490367
+12th Gen Intel(R) Core(TM) i5-12400,12,149,2, 41265573
+12th Gen Intel(R) Core(TM) i5-12400,12,149,3, 41462241
+12th Gen Intel(R) Core(TM) i5-12400,12,149,4, 41871295
+12th Gen Intel(R) Core(TM) i5-12400,12,149,5, 41667582
+12th Gen Intel(R) Core(TM) i5-12400,12,150,1, 45198776
+12th Gen Intel(R) Core(TM) i5-12400,12,150,2, 42673575
+12th Gen Intel(R) Core(TM) i5-12400,12,150,3, 43207768
+12th Gen Intel(R) Core(TM) i5-12400,12,150,4, 40622195
+12th Gen Intel(R) Core(TM) i5-12400,12,150,5, 41743316
+12th Gen Intel(R) Core(TM) i5-12400,12,151,1, 44820777
+12th Gen Intel(R) Core(TM) i5-12400,12,151,2, 41155109
+12th Gen Intel(R) Core(TM) i5-12400,12,151,3, 41861659
+12th Gen Intel(R) Core(TM) i5-12400,12,151,4, 41076505
+12th Gen Intel(R) Core(TM) i5-12400,12,151,5, 41482157
+12th Gen Intel(R) Core(TM) i5-12400,12,152,1, 45970198
+12th Gen Intel(R) Core(TM) i5-12400,12,152,2, 41110030
+12th Gen Intel(R) Core(TM) i5-12400,12,152,3, 41497022
+12th Gen Intel(R) Core(TM) i5-12400,12,152,4, 41597230
+12th Gen Intel(R) Core(TM) i5-12400,12,152,5, 42191564
+12th Gen Intel(R) Core(TM) i5-12400,12,153,1, 45895688
+12th Gen Intel(R) Core(TM) i5-12400,12,153,2, 41044147
+12th Gen Intel(R) Core(TM) i5-12400,12,153,3, 42392716
+12th Gen Intel(R) Core(TM) i5-12400,12,153,4, 41651368
+12th Gen Intel(R) Core(TM) i5-12400,12,153,5, 41243835
+12th Gen Intel(R) Core(TM) i5-12400,12,154,1, 45603766
+12th Gen Intel(R) Core(TM) i5-12400,12,154,2, 41963555
+12th Gen Intel(R) Core(TM) i5-12400,12,154,3, 42577635
+12th Gen Intel(R) Core(TM) i5-12400,12,154,4, 41371527
+12th Gen Intel(R) Core(TM) i5-12400,12,154,5, 41685716
+12th Gen Intel(R) Core(TM) i5-12400,12,155,1, 46247022
+12th Gen Intel(R) Core(TM) i5-12400,12,155,2, 40991883
+12th Gen Intel(R) Core(TM) i5-12400,12,155,3, 41305119
+12th Gen Intel(R) Core(TM) i5-12400,12,155,4, 41672657
+12th Gen Intel(R) Core(TM) i5-12400,12,155,5, 41558888
+12th Gen Intel(R) Core(TM) i5-12400,12,156,1, 45617741
+12th Gen Intel(R) Core(TM) i5-12400,12,156,2, 41073317
+12th Gen Intel(R) Core(TM) i5-12400,12,156,3, 44718847
+12th Gen Intel(R) Core(TM) i5-12400,12,156,4, 41856248
+12th Gen Intel(R) Core(TM) i5-12400,12,156,5, 41553866
+12th Gen Intel(R) Core(TM) i5-12400,12,157,1, 45310973
+12th Gen Intel(R) Core(TM) i5-12400,12,157,2, 41819505
+12th Gen Intel(R) Core(TM) i5-12400,12,157,3, 42938244
+12th Gen Intel(R) Core(TM) i5-12400,12,157,4, 40603109
+12th Gen Intel(R) Core(TM) i5-12400,12,157,5, 41599855
+12th Gen Intel(R) Core(TM) i5-12400,12,158,1, 45166123
+12th Gen Intel(R) Core(TM) i5-12400,12,158,2, 40735585
+12th Gen Intel(R) Core(TM) i5-12400,12,158,3, 42180806
+12th Gen Intel(R) Core(TM) i5-12400,12,158,4, 40961268
+12th Gen Intel(R) Core(TM) i5-12400,12,158,5, 41924518
+12th Gen Intel(R) Core(TM) i5-12400,12,159,1, 46742531
+12th Gen Intel(R) Core(TM) i5-12400,12,159,2, 40958708
+12th Gen Intel(R) Core(TM) i5-12400,12,159,3, 43295581
+12th Gen Intel(R) Core(TM) i5-12400,12,159,4, 41151516
+12th Gen Intel(R) Core(TM) i5-12400,12,159,5, 41120489
+12th Gen Intel(R) Core(TM) i5-12400,12,160,1, 46231751
+12th Gen Intel(R) Core(TM) i5-12400,12,160,2, 41286703
+12th Gen Intel(R) Core(TM) i5-12400,12,160,3, 42853232
+12th Gen Intel(R) Core(TM) i5-12400,12,160,4, 42985160
+12th Gen Intel(R) Core(TM) i5-12400,12,160,5, 41849708
+12th Gen Intel(R) Core(TM) i5-12400,12,161,1, 45045649
+12th Gen Intel(R) Core(TM) i5-12400,12,161,2, 41979552
+12th Gen Intel(R) Core(TM) i5-12400,12,161,3, 42071772
+12th Gen Intel(R) Core(TM) i5-12400,12,161,4, 41525328
+12th Gen Intel(R) Core(TM) i5-12400,12,161,5, 41549964
+12th Gen Intel(R) Core(TM) i5-12400,12,162,1, 45490468
+12th Gen Intel(R) Core(TM) i5-12400,12,162,2, 41856299
+12th Gen Intel(R) Core(TM) i5-12400,12,162,3, 41329481
+12th Gen Intel(R) Core(TM) i5-12400,12,162,4, 41899081
+12th Gen Intel(R) Core(TM) i5-12400,12,162,5, 41291585
+12th Gen Intel(R) Core(TM) i5-12400,12,163,1, 45215910
+12th Gen Intel(R) Core(TM) i5-12400,12,163,2, 41146135
+12th Gen Intel(R) Core(TM) i5-12400,12,163,3, 41896365
+12th Gen Intel(R) Core(TM) i5-12400,12,163,4, 41368066
+12th Gen Intel(R) Core(TM) i5-12400,12,163,5, 41923566
+12th Gen Intel(R) Core(TM) i5-12400,12,164,1, 46150794
+12th Gen Intel(R) Core(TM) i5-12400,12,164,2, 41802618
+12th Gen Intel(R) Core(TM) i5-12400,12,164,3, 41720519
+12th Gen Intel(R) Core(TM) i5-12400,12,164,4, 42032218
+12th Gen Intel(R) Core(TM) i5-12400,12,164,5, 41789629
+12th Gen Intel(R) Core(TM) i5-12400,12,165,1, 44803340
+12th Gen Intel(R) Core(TM) i5-12400,12,165,2, 40677484
+12th Gen Intel(R) Core(TM) i5-12400,12,165,3, 41073920
+12th Gen Intel(R) Core(TM) i5-12400,12,165,4, 41582624
+12th Gen Intel(R) Core(TM) i5-12400,12,165,5, 40869080
+12th Gen Intel(R) Core(TM) i5-12400,12,166,1, 45410541
+12th Gen Intel(R) Core(TM) i5-12400,12,166,2, 41317317
+12th Gen Intel(R) Core(TM) i5-12400,12,166,3, 41664888
+12th Gen Intel(R) Core(TM) i5-12400,12,166,4, 41290731
+12th Gen Intel(R) Core(TM) i5-12400,12,166,5, 41649377
+12th Gen Intel(R) Core(TM) i5-12400,12,167,1, 45563028
+12th Gen Intel(R) Core(TM) i5-12400,12,167,2, 41824953
+12th Gen Intel(R) Core(TM) i5-12400,12,167,3, 41526422
+12th Gen Intel(R) Core(TM) i5-12400,12,167,4, 40952097
+12th Gen Intel(R) Core(TM) i5-12400,12,167,5, 41514087
+12th Gen Intel(R) Core(TM) i5-12400,12,168,1, 45106704
+12th Gen Intel(R) Core(TM) i5-12400,12,168,2, 40966104
+12th Gen Intel(R) Core(TM) i5-12400,12,168,3, 42716744
+12th Gen Intel(R) Core(TM) i5-12400,12,168,4, 41010220
+12th Gen Intel(R) Core(TM) i5-12400,12,168,5, 40933270
+12th Gen Intel(R) Core(TM) i5-12400,12,169,1, 45409001
+12th Gen Intel(R) Core(TM) i5-12400,12,169,2, 42384031
+12th Gen Intel(R) Core(TM) i5-12400,12,169,3, 42005335
+12th Gen Intel(R) Core(TM) i5-12400,12,169,4, 42934398
+12th Gen Intel(R) Core(TM) i5-12400,12,169,5, 41253884
+12th Gen Intel(R) Core(TM) i5-12400,12,170,1, 44991751
+12th Gen Intel(R) Core(TM) i5-12400,12,170,2, 41461742
+12th Gen Intel(R) Core(TM) i5-12400,12,170,3, 41410726
+12th Gen Intel(R) Core(TM) i5-12400,12,170,4, 41126003
+12th Gen Intel(R) Core(TM) i5-12400,12,170,5, 42383495
+12th Gen Intel(R) Core(TM) i5-12400,12,171,1, 45264748
+12th Gen Intel(R) Core(TM) i5-12400,12,171,2, 42452510
+12th Gen Intel(R) Core(TM) i5-12400,12,171,3, 49956106
+12th Gen Intel(R) Core(TM) i5-12400,12,171,4, 41949331
+12th Gen Intel(R) Core(TM) i5-12400,12,171,5, 41603442
+12th Gen Intel(R) Core(TM) i5-12400,12,172,1, 42147879
+12th Gen Intel(R) Core(TM) i5-12400,12,172,2, 41365953
+12th Gen Intel(R) Core(TM) i5-12400,12,172,3, 41161677
+12th Gen Intel(R) Core(TM) i5-12400,12,172,4, 41677763
+12th Gen Intel(R) Core(TM) i5-12400,12,172,5, 41664012
+12th Gen Intel(R) Core(TM) i5-12400,12,173,1, 44461921
+12th Gen Intel(R) Core(TM) i5-12400,12,173,2, 56724120
+12th Gen Intel(R) Core(TM) i5-12400,12,173,3, 41559068
+12th Gen Intel(R) Core(TM) i5-12400,12,173,4, 41653267
+12th Gen Intel(R) Core(TM) i5-12400,12,173,5, 41325827
+12th Gen Intel(R) Core(TM) i5-12400,12,174,1, 46292151
+12th Gen Intel(R) Core(TM) i5-12400,12,174,2, 41911547
+12th Gen Intel(R) Core(TM) i5-12400,12,174,3, 41408164
+12th Gen Intel(R) Core(TM) i5-12400,12,174,4, 41947955
+12th Gen Intel(R) Core(TM) i5-12400,12,174,5, 42371821
+12th Gen Intel(R) Core(TM) i5-12400,12,175,1, 45757082
+12th Gen Intel(R) Core(TM) i5-12400,12,175,2, 41982101
+12th Gen Intel(R) Core(TM) i5-12400,12,175,3, 41395574
+12th Gen Intel(R) Core(TM) i5-12400,12,175,4, 42323399
+12th Gen Intel(R) Core(TM) i5-12400,12,175,5, 42313998
+12th Gen Intel(R) Core(TM) i5-12400,12,176,1, 46278626
+12th Gen Intel(R) Core(TM) i5-12400,12,176,2, 41492885
+12th Gen Intel(R) Core(TM) i5-12400,12,176,3, 41504630
+12th Gen Intel(R) Core(TM) i5-12400,12,176,4, 41782240
+12th Gen Intel(R) Core(TM) i5-12400,12,176,5, 43811987
+12th Gen Intel(R) Core(TM) i5-12400,12,177,1, 46382357
+12th Gen Intel(R) Core(TM) i5-12400,12,177,2, 42193736
+12th Gen Intel(R) Core(TM) i5-12400,12,177,3, 42222882
+12th Gen Intel(R) Core(TM) i5-12400,12,177,4, 42591123
+12th Gen Intel(R) Core(TM) i5-12400,12,177,5, 42417906
+12th Gen Intel(R) Core(TM) i5-12400,12,178,1, 46544831
+12th Gen Intel(R) Core(TM) i5-12400,12,178,2, 40971578
+12th Gen Intel(R) Core(TM) i5-12400,12,178,3, 42025447
+12th Gen Intel(R) Core(TM) i5-12400,12,178,4, 41942831
+12th Gen Intel(R) Core(TM) i5-12400,12,178,5, 43813587
+12th Gen Intel(R) Core(TM) i5-12400,12,179,1, 45260621
+12th Gen Intel(R) Core(TM) i5-12400,12,179,2, 41534169
+12th Gen Intel(R) Core(TM) i5-12400,12,179,3, 42192965
+12th Gen Intel(R) Core(TM) i5-12400,12,179,4, 41427793
+12th Gen Intel(R) Core(TM) i5-12400,12,179,5, 42256434
+12th Gen Intel(R) Core(TM) i5-12400,12,180,1, 46337529
+12th Gen Intel(R) Core(TM) i5-12400,12,180,2, 42857825
+12th Gen Intel(R) Core(TM) i5-12400,12,180,3, 41073537
+12th Gen Intel(R) Core(TM) i5-12400,12,180,4, 42215726
+12th Gen Intel(R) Core(TM) i5-12400,12,180,5, 42641695
+12th Gen Intel(R) Core(TM) i5-12400,12,181,1, 47220769
+12th Gen Intel(R) Core(TM) i5-12400,12,181,2, 42886826
+12th Gen Intel(R) Core(TM) i5-12400,12,181,3, 41677635
+12th Gen Intel(R) Core(TM) i5-12400,12,181,4, 42388125
+12th Gen Intel(R) Core(TM) i5-12400,12,181,5, 42286813
+12th Gen Intel(R) Core(TM) i5-12400,12,182,1, 45387888
+12th Gen Intel(R) Core(TM) i5-12400,12,182,2, 44594937
+12th Gen Intel(R) Core(TM) i5-12400,12,182,3, 42885769
+12th Gen Intel(R) Core(TM) i5-12400,12,182,4, 41715477
+12th Gen Intel(R) Core(TM) i5-12400,12,182,5, 42762233
+12th Gen Intel(R) Core(TM) i5-12400,12,183,1, 45973523
+12th Gen Intel(R) Core(TM) i5-12400,12,183,2, 42788142
+12th Gen Intel(R) Core(TM) i5-12400,12,183,3, 42767228
+12th Gen Intel(R) Core(TM) i5-12400,12,183,4, 40577819
+12th Gen Intel(R) Core(TM) i5-12400,12,183,5, 42433819
+12th Gen Intel(R) Core(TM) i5-12400,12,184,1, 45237110
+12th Gen Intel(R) Core(TM) i5-12400,12,184,2, 43199030
+12th Gen Intel(R) Core(TM) i5-12400,12,184,3, 42285397
+12th Gen Intel(R) Core(TM) i5-12400,12,184,4, 41985813
+12th Gen Intel(R) Core(TM) i5-12400,12,184,5, 42971512
+12th Gen Intel(R) Core(TM) i5-12400,12,185,1, 46354610
+12th Gen Intel(R) Core(TM) i5-12400,12,185,2, 42271796
+12th Gen Intel(R) Core(TM) i5-12400,12,185,3, 43157628
+12th Gen Intel(R) Core(TM) i5-12400,12,185,4, 41451528
+12th Gen Intel(R) Core(TM) i5-12400,12,185,5, 42071266
+12th Gen Intel(R) Core(TM) i5-12400,12,186,1, 45976681
+12th Gen Intel(R) Core(TM) i5-12400,12,186,2, 41340027
+12th Gen Intel(R) Core(TM) i5-12400,12,186,3, 42816348
+12th Gen Intel(R) Core(TM) i5-12400,12,186,4, 41607414
+12th Gen Intel(R) Core(TM) i5-12400,12,186,5, 42372093
+12th Gen Intel(R) Core(TM) i5-12400,12,187,1, 45350755
+12th Gen Intel(R) Core(TM) i5-12400,12,187,2, 41416735
+12th Gen Intel(R) Core(TM) i5-12400,12,187,3, 42798546
+12th Gen Intel(R) Core(TM) i5-12400,12,187,4, 41711013
+12th Gen Intel(R) Core(TM) i5-12400,12,187,5, 41481988
+12th Gen Intel(R) Core(TM) i5-12400,12,188,1, 46184104
+12th Gen Intel(R) Core(TM) i5-12400,12,188,2, 41647910
+12th Gen Intel(R) Core(TM) i5-12400,12,188,3, 42662592
+12th Gen Intel(R) Core(TM) i5-12400,12,188,4, 42065166
+12th Gen Intel(R) Core(TM) i5-12400,12,188,5, 43331279
+12th Gen Intel(R) Core(TM) i5-12400,12,189,1, 46292391
+12th Gen Intel(R) Core(TM) i5-12400,12,189,2, 41761451
+12th Gen Intel(R) Core(TM) i5-12400,12,189,3, 42044457
+12th Gen Intel(R) Core(TM) i5-12400,12,189,4, 42096162
+12th Gen Intel(R) Core(TM) i5-12400,12,189,5, 41840886
+12th Gen Intel(R) Core(TM) i5-12400,12,190,1, 45325508
+12th Gen Intel(R) Core(TM) i5-12400,12,190,2, 42226010
+12th Gen Intel(R) Core(TM) i5-12400,12,190,3, 43337145
+12th Gen Intel(R) Core(TM) i5-12400,12,190,4, 42930889
+12th Gen Intel(R) Core(TM) i5-12400,12,190,5, 41154132
+12th Gen Intel(R) Core(TM) i5-12400,12,191,1, 44984263
+12th Gen Intel(R) Core(TM) i5-12400,12,191,2, 41786816
+12th Gen Intel(R) Core(TM) i5-12400,12,191,3, 42565092
+12th Gen Intel(R) Core(TM) i5-12400,12,191,4, 42889848
+12th Gen Intel(R) Core(TM) i5-12400,12,191,5, 41645176
+12th Gen Intel(R) Core(TM) i5-12400,12,192,1, 45863794
+12th Gen Intel(R) Core(TM) i5-12400,12,192,2, 42212422
+12th Gen Intel(R) Core(TM) i5-12400,12,192,3, 43231562
+12th Gen Intel(R) Core(TM) i5-12400,12,192,4, 41495425
+12th Gen Intel(R) Core(TM) i5-12400,12,192,5, 42222874
+12th Gen Intel(R) Core(TM) i5-12400,12,193,1, 45255802
+12th Gen Intel(R) Core(TM) i5-12400,12,193,2, 41938860
+12th Gen Intel(R) Core(TM) i5-12400,12,193,3, 41633935
+12th Gen Intel(R) Core(TM) i5-12400,12,193,4, 42989944
+12th Gen Intel(R) Core(TM) i5-12400,12,193,5, 42373887
+12th Gen Intel(R) Core(TM) i5-12400,12,194,1, 45389868
+12th Gen Intel(R) Core(TM) i5-12400,12,194,2, 41691599
+12th Gen Intel(R) Core(TM) i5-12400,12,194,3, 41970352
+12th Gen Intel(R) Core(TM) i5-12400,12,194,4, 41955914
+12th Gen Intel(R) Core(TM) i5-12400,12,194,5, 42377640
+12th Gen Intel(R) Core(TM) i5-12400,12,195,1, 49350315
+12th Gen Intel(R) Core(TM) i5-12400,12,195,2, 41909776
+12th Gen Intel(R) Core(TM) i5-12400,12,195,3, 42688477
+12th Gen Intel(R) Core(TM) i5-12400,12,195,4, 42191747
+12th Gen Intel(R) Core(TM) i5-12400,12,195,5, 41988227
+12th Gen Intel(R) Core(TM) i5-12400,12,196,1, 46870331
+12th Gen Intel(R) Core(TM) i5-12400,12,196,2, 43786956
+12th Gen Intel(R) Core(TM) i5-12400,12,196,3, 42291619
+12th Gen Intel(R) Core(TM) i5-12400,12,196,4, 43118124
+12th Gen Intel(R) Core(TM) i5-12400,12,196,5, 41371769
+12th Gen Intel(R) Core(TM) i5-12400,12,197,1, 45347058
+12th Gen Intel(R) Core(TM) i5-12400,12,197,2, 42779173
+12th Gen Intel(R) Core(TM) i5-12400,12,197,3, 42304248
+12th Gen Intel(R) Core(TM) i5-12400,12,197,4, 44414884
+12th Gen Intel(R) Core(TM) i5-12400,12,197,5, 42127520
+12th Gen Intel(R) Core(TM) i5-12400,12,198,1, 46452199
+12th Gen Intel(R) Core(TM) i5-12400,12,198,2, 42415955
+12th Gen Intel(R) Core(TM) i5-12400,12,198,3, 41801654
+12th Gen Intel(R) Core(TM) i5-12400,12,198,4, 42905776
+12th Gen Intel(R) Core(TM) i5-12400,12,198,5, 41509396
+12th Gen Intel(R) Core(TM) i5-12400,12,199,1, 47567733
+12th Gen Intel(R) Core(TM) i5-12400,12,199,2, 42714308
+12th Gen Intel(R) Core(TM) i5-12400,12,199,3, 42461181
+12th Gen Intel(R) Core(TM) i5-12400,12,199,4, 40900801
+12th Gen Intel(R) Core(TM) i5-12400,12,199,5, 42113531
+12th Gen Intel(R) Core(TM) i5-12400,12,200,1, 47003590
+12th Gen Intel(R) Core(TM) i5-12400,12,200,2, 43074535
+12th Gen Intel(R) Core(TM) i5-12400,12,200,3, 41593726
+12th Gen Intel(R) Core(TM) i5-12400,12,200,4, 44525249
+12th Gen Intel(R) Core(TM) i5-12400,12,200,5, 42702399
 Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz,4,1,1,453271850
 Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz,4,1,2,411439621
 Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz,4,1,3,442433822
@@ -2004,998 +3004,998 @@ Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,1,2,421541904
 Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,1,3,427272345
 Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,1,4,419871611
 Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,1,5,419643636
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,2,1, 213611769
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,2,2, 212644655
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,2,3, 213369453
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,2,4, 218882921
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,2,5, 210835438
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,3,1, 143357303
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,3,2, 149666034
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,3,3, 147911098
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,3,4, 142575723
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,3,5, 149175389
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,4,1, 111510293
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,4,2, 112246096
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,4,3, 113502717
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,4,4, 113907235
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,4,5, 109203371
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,5,1, 170850769
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,5,2, 171440652
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,5,3, 170402905
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,5,4, 172192496
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,5,5, 178313529
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,6,1, 144799879
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,6,2, 147734297
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,6,3, 143205044
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,6,4, 145308542
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,6,5, 145365763
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,7,1, 125928686
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,7,2, 125088319
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,7,3, 124747079
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,7,4, 130766620
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,7,5, 130559675
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,8,1, 121658720
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,8,2, 130650515
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,8,3, 109855870
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,8,4, 109698054
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,8,5, 109929767
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,9,1, 142353395
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,9,2, 144245251
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,9,3, 142303639
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,9,4, 145035546
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,9,5, 144112028
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,10,1, 128985982
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,10,2, 130492742
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,10,3, 132535074
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,10,4, 132566149
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,10,5, 137728373
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,11,1, 130547730
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,11,2, 119041391
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,11,3, 124477103
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,11,4, 119098710
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,11,5, 123945282
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,12,1, 114352717
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,12,2, 111907572
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,12,3, 114210587
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,12,4, 115900801
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,12,5, 115656590
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,13,1, 138660736
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,13,2, 135787792
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,13,3, 134242419
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,13,4, 133833343
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,13,5, 133760141
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,14,1, 127823382
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,14,2, 129899153
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,14,3, 125678357
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,14,4, 123838081
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,14,5, 132053549
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,15,1, 116316825
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,15,2, 119941689
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,15,3, 120699619
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,15,4, 130747394
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,15,5, 119478521
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,16,1, 113585626
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,16,2, 110014478
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,16,3, 114079748
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,16,4, 116195109
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,16,5, 113084853
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,17,1, 127870622
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,17,2, 127043171
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,17,3, 128384467
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,17,4, 131014231
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,17,5, 127898527
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,18,1, 125487413
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,18,2, 121554009
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,18,3, 121164323
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,18,4, 121023662
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,18,5, 121716423
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,19,1, 119010108
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,19,2, 118991831
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,19,3, 118971632
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,19,4, 124698032
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,19,5, 125002388
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,20,1, 113438140
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,20,2, 112444007
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,20,3, 114307538
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,20,4, 112504099
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,20,5, 112792462
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,21,1, 123475209
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,21,2, 123147013
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,21,3, 125236398
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,21,4, 125619075
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,21,5, 124721585
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,22,1, 121999034
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,22,2, 124735195
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,22,3, 119239439
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,22,4, 120365783
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,22,5, 120179605
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,23,1, 118318949
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,23,2, 117220096
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,23,3, 116857140
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,23,4, 116520650
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,23,5, 115507048
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,24,1, 124302341
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,24,2, 119427186
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,24,3, 111447600
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,24,4, 111431714
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,24,5, 112191920
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,25,1, 125587281
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,25,2, 129333383
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,25,3, 125837242
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,25,4, 124791036
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,25,5, 122596850
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,26,1, 123824761
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,26,2, 119997782
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,26,3, 134354748
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,26,4, 120522593
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,26,5, 119696094
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,27,1, 121410177
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,27,2, 121883168
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,27,3, 119686991
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,27,4, 116045504
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,27,5, 124792465
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,28,1, 114892757
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,28,2, 116926797
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,28,3, 128829283
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,28,4, 115497979
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,28,5, 117606281
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,29,1, 123772827
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,29,2, 124006827
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,29,3, 128954933
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,29,4, 123615483
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,29,5, 122020657
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,30,1, 127973255
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,30,2, 117196039
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,30,3, 119635357
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,30,4, 121785624
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,30,5, 119110586
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,31,1, 118660092
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,31,2, 121925714
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,31,3, 120759556
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,31,4, 123583757
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,31,5, 126267907
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,32,1, 122423971
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,32,2, 118652056
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,32,3, 118683045
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,32,4, 127533758
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,32,5, 117199352
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,33,1, 121855165
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,33,2, 122225214
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,33,3, 118853190
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,33,4, 122759171
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,33,5, 119648694
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,34,1, 119352733
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,34,2, 117416824
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,34,3, 123127002
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,34,4, 117621968
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,34,5, 120371028
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,35,1, 123622386
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,35,2, 118986263
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,35,3, 116134274
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,35,4, 116846165
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,35,5, 120463352
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,36,1, 120430484
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,36,2, 114002712
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,36,3, 126427088
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,36,4, 114365828
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,36,5, 115409919
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,37,1, 121235501
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,37,2, 152830896
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,37,3, 118448379
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,37,4, 122512135
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,37,5, 130472658
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,38,1, 120697322
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,38,2, 118112871
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,38,3, 123623564
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,38,4, 119498346
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,38,5, 119476034
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,39,1, 124339486
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,39,2, 117294456
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,39,3, 120130446
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,39,4, 118398703
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,39,5, 121943933
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,40,1, 121088004
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,40,2, 122174145
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,40,3, 119632641
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,40,4, 117900161
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,40,5, 113479799
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,41,1, 119538657
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,41,2, 136220508
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,41,3, 118328976
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,41,4, 124960743
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,41,5, 122105671
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,42,1, 118356027
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,42,2, 119670342
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,42,3, 128258386
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,42,4, 119267883
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,42,5, 118977164
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,43,1, 119342147
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,43,2, 114733417
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,43,3, 115901186
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,43,4, 117507586
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,43,5, 126482552
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,44,1, 114801929
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,44,2, 120772526
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,44,3, 123467658
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,44,4, 120603733
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,44,5, 121775130
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,45,1, 119154840
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,45,2, 120229129
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,45,3, 120412367
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,45,4, 119333683
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,45,5, 118576681
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,46,1, 121606653
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,46,2, 118542140
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,46,3, 117197272
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,46,4, 120554266
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,46,5, 120395008
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,47,1, 122490766
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,47,2, 116407867
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,47,3, 119295039
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,47,4, 117924667
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,47,5, 117446443
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,48,1, 114611559
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,48,2, 114729530
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,48,3, 122056140
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,48,4, 121847981
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,48,5, 118419132
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,49,1, 119776470
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,49,2, 121474648
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,49,3, 118151558
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,49,4, 119606947
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,49,5, 118302554
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,50,1, 122186807
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,50,2, 120135545
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,50,3, 119672262
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,50,4, 119032037
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,50,5, 113727901
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,51,1, 116817692
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,51,2, 116800869
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,51,3, 115639824
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,51,4, 117966432
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,51,5, 121321236
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,52,1, 121806802
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,52,2, 118993650
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,52,3, 118367361
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,52,4, 115490291
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,52,5, 120424844
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,53,1, 114964475
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,53,2, 130720116
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,53,3, 126906198
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,53,4, 119053802
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,53,5, 119457368
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,54,1, 117213942
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,54,2, 118095709
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,54,3, 115303154
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,54,4, 114126875
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,54,5, 118193368
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,55,1, 120053771
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,55,2, 121678343
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,55,3, 119107305
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,55,4, 124596456
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,55,5, 120230090
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,56,1, 142272445
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,56,2, 114959956
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,56,3, 118289237
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,56,4, 119961836
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,56,5, 118219401
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,57,1, 118878257
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,57,2, 120687859
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,57,3, 119214826
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,57,4, 122521504
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,57,5, 118194393
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,58,1, 122773899
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,58,2, 129864749
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,58,3, 122461604
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,58,4, 123193265
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,58,5, 121905019
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,59,1, 118196927
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,59,2, 118490687
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,59,3, 119050855
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,59,4, 118516317
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,59,5, 116911316
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,60,1, 113336029
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,60,2, 120533822
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,60,3, 121604671
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,60,4, 130332099
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,60,5, 125214504
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,61,1, 122831460
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,61,2, 119856380
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,61,3, 115527663
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,61,4, 128573698
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,61,5, 119806923
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,62,1, 119210029
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,62,2, 120935500
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,62,3, 120130628
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,62,4, 128468054
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,62,5, 117726560
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,63,1, 119722016
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,63,2, 127077384
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,63,3, 118560306
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,63,4, 122096605
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,63,5, 120682429
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,64,1, 120867419
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,64,2, 121777054
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,64,3, 120091157
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,64,4, 119123504
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,64,5, 123668129
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,65,1, 123141938
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,65,2, 122372364
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,65,3, 116673271
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,65,4, 126905874
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,65,5, 118474991
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,66,1, 126016297
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,66,2, 123650134
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,66,3, 121010698
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,66,4, 120993143
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,66,5, 121585413
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,67,1, 119310273
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,67,2, 119673952
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,67,3, 118586248
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,67,4, 117776968
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,67,5, 121292361
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,68,1, 119975414
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,68,2, 122067978
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,68,3, 113215557
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,68,4, 118960148
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,68,5, 121954758
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,69,1, 116631045
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,69,2, 123019279
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,69,3, 118633814
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,69,4, 120289655
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,69,5, 120438917
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,70,1, 119009577
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,70,2, 118901953
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,70,3, 133361440
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,70,4, 122788818
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,70,5, 116820333
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,71,1, 121400173
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,71,2, 119933286
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,71,3, 120127948
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,71,4, 116664272
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,71,5, 118636779
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,72,1, 118666988
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,72,2, 116285534
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,72,3, 118467853
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,72,4, 120452530
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,72,5, 122840972
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,73,1, 124779410
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,73,2, 117383293
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,73,3, 118214566
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,73,4, 119118718
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,73,5, 122681465
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,74,1, 116530984
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,74,2, 120664838
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,74,3, 121908584
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,74,4, 123129998
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,74,5, 122042429
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,75,1, 130564589
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,75,2, 129676972
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,75,3, 113875379
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,75,4, 116478442
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,75,5, 120173866
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,76,1, 123186902
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,76,2, 120819567
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,76,3, 120292611
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,76,4, 123963189
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,76,5, 121347583
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,77,1, 120695893
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,77,2, 120488628
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,77,3, 117966443
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,77,4, 117598419
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,77,5, 130073767
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,78,1, 120154409
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,78,2, 117663377
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,78,3, 119974544
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,78,4, 114422444
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,78,5, 122753142
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,79,1, 123461270
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,79,2, 119196168
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,79,3, 122094528
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,79,4, 118473867
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,79,5, 122517400
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,80,1, 132729464
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,80,2, 122315214
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,80,3, 119620786
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,80,4, 123019435
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,80,5, 133866646
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,81,1, 123972291
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,81,2, 128649457
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,81,3, 122475097
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,81,4, 121318623
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,81,5, 120486240
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,82,1, 123122516
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,82,2, 118588797
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,82,3, 124285941
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,82,4, 133654009
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,82,5, 119264906
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,83,1, 122314377
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,83,2, 118239934
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,83,3, 121696527
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,83,4, 121164632
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,83,5, 121122062
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,84,1, 122238189
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,84,2, 123268824
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,84,3, 118376274
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,84,4, 121115134
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,84,5, 126597072
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,85,1, 122146890
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,85,2, 120660663
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,85,3, 116405239
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,85,4, 119428073
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,85,5, 123016734
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,86,1, 119625537
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,86,2, 117286610
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,86,3, 118861054
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,86,4, 122635229
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,86,5, 121071208
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,87,1, 120608787
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,87,2, 118409198
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,87,3, 132112005
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,87,4, 119548853
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,87,5, 117808382
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,88,1, 123986431
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,88,2, 115734112
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,88,3, 119248230
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,88,4, 127941944
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,88,5, 118314393
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,89,1, 118469844
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,89,2, 121166566
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,89,3, 124634601
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,89,4, 124579169
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,89,5, 119216638
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,90,1, 124701273
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,90,2, 122821126
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,90,3, 119291440
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,90,4, 118534422
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,90,5, 120318868
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,91,1, 127062584
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,91,2, 124904561
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,91,3, 128339841
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,91,4, 120936911
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,91,5, 120138101
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,92,1, 118049034
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,92,2, 124371404
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,92,3, 122032744
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,92,4, 120214014
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,92,5, 121210196
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,93,1, 120136065
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,93,2, 119464487
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,93,3, 114989500
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,93,4, 119334997
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,93,5, 121227723
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,94,1, 118438741
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,94,2, 120758996
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,94,3, 119113918
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,94,4, 121950996
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,94,5, 132286127
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,95,1, 121652555
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,95,2, 122210868
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,95,3, 125077979
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,95,4, 151424446
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,95,5, 119674863
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,96,1, 119197404
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,96,2, 117386003
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,96,3, 117684197
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,96,4, 124207608
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,96,5, 122852169
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,97,1, 131615881
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,97,2, 119940168
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,97,3, 124370189
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,97,4, 116916416
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,97,5, 122191577
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,98,1, 120112816
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,98,2, 122994812
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,98,3, 123833704
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,98,4, 122493001
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,98,5, 121941773
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,99,1, 121453242
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,99,2, 121548842
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,99,3, 123224413
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,99,4, 119189969
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,99,5, 119212031
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,100,1, 124085060
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,100,2, 119751833
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,100,3, 148564510
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,100,4, 120995255
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,100,5, 120461836
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,101,1, 117377984
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,101,2, 118449778
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,101,3, 118585183
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,101,4, 121482605
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,101,5, 119544213
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,102,1, 118139177
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,102,2, 124417690
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,102,3, 123077694
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,102,4, 119546219
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,102,5, 124333886
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,103,1, 119155448
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,103,2, 120126737
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,103,3, 124789161
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,103,4, 119634418
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,103,5, 122387454
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,104,1, 122661029
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,104,2, 125493203
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,104,3, 122969533
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,104,4, 126738845
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,104,5, 127533359
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,105,1, 119957698
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,105,2, 129677266
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,105,3, 119235715
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,105,4, 122628985
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,105,5, 126033344
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,106,1, 123281969
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,106,2, 126103323
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,106,3, 120719160
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,106,4, 124163568
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,106,5, 122821763
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,107,1, 120213347
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,107,2, 123702944
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,107,3, 122076776
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,107,4, 120967310
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,107,5, 124425923
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,108,1, 118748059
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,108,2, 128972671
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,108,3, 119737119
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,108,4, 127532630
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,108,5, 116929058
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,109,1, 120459504
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,109,2, 123757121
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,109,3, 121889700
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,109,4, 123536747
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,109,5, 120181005
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,110,1, 119170717
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,110,2, 123555193
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,110,3, 120252867
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,110,4, 120559322
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,110,5, 124396870
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,111,1, 125182569
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,111,2, 122627284
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,111,3, 121364654
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,111,4, 118066198
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,111,5, 125544207
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,112,1, 123369542
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,112,2, 120126212
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,112,3, 120977216
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,112,4, 125621825
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,112,5, 122690189
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,113,1, 128546700
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,113,2, 121396444
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,113,3, 125633856
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,113,4, 122264220
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,113,5, 125081219
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,114,1, 122719121
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,114,2, 124313814
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,114,3, 118731612
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,114,4, 125793057
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,114,5, 120458651
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,115,1, 119324419
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,115,2, 119173530
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,115,3, 124483272
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,115,4, 132987310
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,115,5, 120350059
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,116,1, 118308294
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,116,2, 124710798
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,116,3, 121899777
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,116,4, 119107992
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,116,5, 121193427
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,117,1, 121642850
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,117,2, 122425482
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,117,3, 118168439
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,117,4, 122550844
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,117,5, 123476355
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,118,1, 121091128
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,118,2, 121566518
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,118,3, 122742514
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,118,4, 120926219
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,118,5, 126568485
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,119,1, 133943790
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,119,2, 125360294
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,119,3, 123953259
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,119,4, 123434873
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,119,5, 118108240
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,120,1, 119525376
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,120,2, 127419698
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,120,3, 137194861
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,120,4, 122480094
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,120,5, 123570410
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,121,1, 121575305
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,121,2, 125389783
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,121,3, 123843238
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,121,4, 120928388
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,121,5, 124295444
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,122,1, 118984111
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,122,2, 125985245
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,122,3, 126341475
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,122,4, 123040568
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,122,5, 126274848
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,123,1, 120129546
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,123,2, 118518891
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,123,3, 118452862
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,123,4, 126137218
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,123,5, 124919631
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,124,1, 123791636
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,124,2, 128065306
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,124,3, 120994081
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,124,4, 124678341
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,124,5, 121987795
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,125,1, 122530689
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,125,2, 143853773
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,125,3, 128050169
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,125,4, 125072378
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,125,5, 124623475
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,126,1, 118144274
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,126,2, 126761631
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,126,3, 130609722
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,126,4, 126852408
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,126,5, 128423099
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,127,1, 129755469
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,127,2, 126207206
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,127,3, 123858538
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,127,4, 123673690
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,127,5, 131418129
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,128,1, 131888820
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,128,2, 119085639
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,128,3, 125826822
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,128,4, 122580477
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,128,5, 123375720
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,129,1, 124975681
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,129,2, 127363715
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,129,3, 118351992
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,129,4, 126258088
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,129,5, 124709970
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,130,1, 131675032
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,130,2, 125173685
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,130,3, 125142338
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,130,4, 124325392
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,130,5, 123631300
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,131,1, 128886394
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,131,2, 123446696
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,131,3, 124645811
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,131,4, 122565569
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,131,5, 122453693
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,132,1, 127465179
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,132,2, 127204791
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,132,3, 123524220
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,132,4, 128936254
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,132,5, 125673899
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,133,1, 125827948
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,133,2, 161393725
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,133,3, 125716727
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,133,4, 123473915
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,133,5, 130827344
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,134,1, 119857620
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,134,2, 125932824
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,134,3, 130540332
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,134,4, 128327510
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,134,5, 130186736
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,135,1, 121031396
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,135,2, 122031789
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,135,3, 122317078
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,135,4, 120772073
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,135,5, 123877916
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,136,1, 123650914
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,136,2, 124651522
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,136,3, 124133038
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,136,4, 127277914
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,136,5, 124231001
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,137,1, 121660180
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,137,2, 124770616
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,137,3, 126600519
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,137,4, 125873048
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,137,5, 123915786
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,138,1, 123214991
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,138,2, 124233327
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,138,3, 124088966
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,138,4, 124663684
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,138,5, 122563867
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,139,1, 124999207
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,139,2, 125435930
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,139,3, 123264663
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,139,4, 122844304
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,139,5, 122518299
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,140,1, 121774170
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,140,2, 126007726
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,140,3, 124646653
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,140,4, 121045568
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,140,5, 122209408
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,141,1, 147285262
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,141,2, 139351933
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,141,3, 124898816
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,141,4, 124642070
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,141,5, 124199690
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,142,1, 120694066
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,142,2, 122528756
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,142,3, 124753923
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,142,4, 128456427
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,142,5, 127608185
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,143,1, 127256909
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,143,2, 125571852
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,143,3, 129909921
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,143,4, 134865943
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,143,5, 131008602
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,144,1, 122627136
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,144,2, 124938886
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,144,3, 122822810
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,144,4, 124960658
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,144,5, 128425602
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,145,1, 125493782
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,145,2, 122992713
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,145,3, 125161844
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,145,4, 124178115
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,145,5, 126693005
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,146,1, 144268125
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,146,2, 125098682
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,146,3, 124620182
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,146,4, 120293068
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,146,5, 118448025
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,147,1, 126790936
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,147,2, 123630578
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,147,3, 122868016
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,147,4, 120917791
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,147,5, 124782583
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,148,1, 125551790
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,148,2, 124683736
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,148,3, 126357827
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,148,4, 133015651
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,148,5, 127009603
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,149,1, 121461952
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,149,2, 125902311
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,149,3, 124892170
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,149,4, 124704221
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,149,5, 124711756
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,150,1, 127269329
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,150,2, 122352260
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,150,3, 125987944
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,150,4, 129829322
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,150,5, 127808466
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,151,1, 124122488
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,151,2, 122360328
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,151,3, 124610847
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,151,4, 124390698
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,151,5, 125129821
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,152,1, 126368668
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,152,2, 124140265
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,152,3, 122162123
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,152,4, 120366149
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,152,5, 123197467
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,153,1, 126032471
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,153,2, 125267969
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,153,3, 136542437
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,153,4, 126423303
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,153,5, 120249923
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,154,1, 126158556
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,154,2, 123698713
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,154,3, 127412322
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,154,4, 126900738
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,154,5, 126340987
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,155,1, 131818096
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,155,2, 117652225
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,155,3, 122780445
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,155,4, 123634377
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,155,5, 126332036
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,156,1, 128427028
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,156,2, 131146543
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,156,3, 128831531
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,156,4, 138357534
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,156,5, 123131934
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,157,1, 125219366
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,157,2, 133091392
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,157,3, 128818518
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,157,4, 120671064
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,157,5, 125089524
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,158,1, 123739629
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,158,2, 123598644
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,158,3, 127517138
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,158,4, 123926037
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,158,5, 121029126
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,159,1, 125322794
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,159,2, 127237172
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,159,3, 128076007
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,159,4, 121311865
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,159,5, 129343248
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,160,1, 125783572
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,160,2, 125744248
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,160,3, 126176405
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,160,4, 124828148
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,160,5, 137353162
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,161,1, 124085166
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,161,2, 131737951
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,161,3, 123017840
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,161,4, 124325181
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,161,5, 128987505
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,162,1, 138774705
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,162,2, 126001134
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,162,3, 127568951
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,162,4, 126287252
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,162,5, 121366182
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,163,1, 126085889
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,163,2, 133426295
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,163,3, 122690737
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,163,4, 124052874
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,163,5, 127254588
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,164,1, 128200307
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,164,2, 121132126
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,164,3, 126813233
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,164,4, 134324516
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,164,5, 124684160
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,165,1, 127774951
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,165,2, 124702830
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,165,3, 132773134
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,165,4, 133445583
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,165,5, 121744804
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,166,1, 128095076
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,166,2, 122537638
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,166,3, 125196486
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,166,4, 122565389
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,166,5, 124710962
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,167,1, 126062826
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,167,2, 124461896
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,167,3, 127269589
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,167,4, 121731779
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,167,5, 127630637
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,168,1, 128095615
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,168,2, 130275986
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,168,3, 125790830
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,168,4, 124718495
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,168,5, 125305538
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,169,1, 126656509
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,169,2, 127188479
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,169,3, 133578438
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,169,4, 124153798
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,169,5, 127870505
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,170,1, 126079721
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,170,2, 129789085
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,170,3, 129932515
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,170,4, 134623632
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,170,5, 123687754
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,171,1, 140509467
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,171,2, 126705029
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,171,3, 124080375
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,171,4, 127728840
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,171,5, 129484412
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,172,1, 126701872
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,172,2, 124841511
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,172,3, 126360058
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,172,4, 128257319
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,172,5, 123909792
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,173,1, 133708332
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,173,2, 139616138
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,173,3, 124209730
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,173,4, 121303832
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,173,5, 122511518
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,174,1, 127105198
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,174,2, 127968804
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,174,3, 128421000
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,174,4, 127922395
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,174,5, 126533953
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,175,1, 125842065
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,175,2, 122736423
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,175,3, 120225641
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,175,4, 125292497
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,175,5, 126230305
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,176,1, 120861899
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,176,2, 126307749
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,176,3, 129090318
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,176,4, 126969960
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,176,5, 131338716
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,177,1, 126523407
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,177,2, 126378303
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,177,3, 127015637
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,177,4, 120766352
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,177,5, 140286926
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,178,1, 140858456
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,178,2, 127536281
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,178,3, 121613288
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,178,4, 120540689
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,178,5, 126051704
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,179,1, 136190457
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,179,2, 129420557
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,179,3, 129101326
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,179,4, 131342337
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,179,5, 127799073
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,180,1, 126152823
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,180,2, 126366113
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,180,3, 141215076
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,180,4, 142501687
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,180,5, 132010881
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,181,1, 125568313
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,181,2, 125475516
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,181,3, 127376473
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,181,4, 129395836
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,181,5, 126372270
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,182,1, 122428841
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,182,2, 120262847
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,182,3, 126426161
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,182,4, 132304944
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,182,5, 125444850
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,183,1, 127765661
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,183,2, 125860213
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,183,3, 129455200
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,183,4, 124899448
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,183,5, 128681382
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,184,1, 126848775
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,184,2, 124759066
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,184,3, 132212321
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,184,4, 129503303
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,184,5, 123263436
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,185,1, 128871062
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,185,2, 126282526
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,185,3, 136752829
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,185,4, 121049309
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,185,5, 123321397
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,186,1, 126602530
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,186,2, 123467671
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,186,3, 125262071
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,186,4, 131349298
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,186,5, 127568460
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,187,1, 125448198
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,187,2, 125010118
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,187,3, 131410545
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,187,4, 124902943
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,187,5, 135547182
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,188,1, 125537880
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,188,2, 126233061
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,188,3, 125617254
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,188,4, 127943554
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,188,5, 123981175
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,189,1, 124580160
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,189,2, 138789145
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,189,3, 127532157
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,189,4, 123500857
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,189,5, 124179359
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,190,1, 128557414
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,190,2, 125640146
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,190,3, 122285748
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,190,4, 127976083
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,190,5, 128064113
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,191,1, 125946353
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,191,2, 125612587
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,191,3, 130504850
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,191,4, 121139236
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,191,5, 128386980
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,192,1, 125859181
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,192,2, 126981261
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,192,3, 128777080
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,192,4, 143031178
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,192,5, 151017143
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,193,1, 127231962
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,193,2, 125566692
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,193,3, 128513311
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,193,4, 121198464
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,193,5, 123039356
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,194,1, 134669091
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,194,2, 126430305
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,194,3, 128460740
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,194,4, 129741150
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,194,5, 127563785
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,195,1, 131438292
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,195,2, 126519114
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,195,3, 128101263
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,195,4, 129495552
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,195,5, 127232557
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,196,1, 132082477
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,196,2, 130077300
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,196,3, 126399871
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,196,4, 139279327
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,196,5, 123473121
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,197,1, 127042062
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,197,2, 128973943
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,197,3, 125672937
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,197,4, 126195682
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,197,5, 122212489
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,198,1, 121890617
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,198,2, 126930624
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,198,3, 125945291
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,198,4, 126515401
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,198,5, 126501245
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,199,1, 126844065
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,199,2, 131056180
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,199,3, 136089584
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,199,4, 135245311
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,199,5, 127343440
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,200,1, 134135126
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,200,2, 126397632
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,200,3, 125687198
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,200,4, 130923812
-Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,200,5, 126963207
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,2,1,213611769
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,2,2,212644655
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,2,3,213369453
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,2,4,218882921
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,2,5,210835438
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,3,1,143357303
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,3,2,149666034
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,3,3,147911098
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,3,4,142575723
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,3,5,149175389
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,4,1,111510293
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,4,2,112246096
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,4,3,113502717
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,4,4,113907235
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,4,5,109203371
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,5,1,170850769
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,5,2,171440652
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,5,3,170402905
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,5,4,172192496
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,5,5,178313529
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,6,1,144799879
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,6,2,147734297
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,6,3,143205044
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,6,4,145308542
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,6,5,145365763
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,7,1,125928686
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,7,2,125088319
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,7,3,124747079
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,7,4,130766620
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,7,5,130559675
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,8,1,121658720
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,8,2,130650515
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,8,3,109855870
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,8,4,109698054
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,8,5,109929767
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,9,1,142353395
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,9,2,144245251
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,9,3,142303639
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,9,4,145035546
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,9,5,144112028
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,10,1,128985982
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,10,2,130492742
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,10,3,132535074
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,10,4,132566149
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,10,5,137728373
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,11,1,130547730
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,11,2,119041391
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,11,3,124477103
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,11,4,119098710
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,11,5,123945282
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,12,1,114352717
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,12,2,111907572
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,12,3,114210587
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,12,4,115900801
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,12,5,115656590
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,13,1,138660736
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,13,2,135787792
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,13,3,134242419
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,13,4,133833343
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,13,5,133760141
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,14,1,127823382
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,14,2,129899153
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,14,3,125678357
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,14,4,123838081
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,14,5,132053549
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,15,1,116316825
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,15,2,119941689
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,15,3,120699619
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,15,4,130747394
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,15,5,119478521
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,16,1,113585626
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,16,2,110014478
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,16,3,114079748
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,16,4,116195109
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,16,5,113084853
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,17,1,127870622
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,17,2,127043171
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,17,3,128384467
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,17,4,131014231
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,17,5,127898527
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,18,1,125487413
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,18,2,121554009
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,18,3,121164323
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,18,4,121023662
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,18,5,121716423
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,19,1,119010108
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,19,2,118991831
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,19,3,118971632
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,19,4,124698032
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,19,5,125002388
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,20,1,113438140
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,20,2,112444007
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,20,3,114307538
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,20,4,112504099
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,20,5,112792462
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,21,1,123475209
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,21,2,123147013
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,21,3,125236398
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,21,4,125619075
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,21,5,124721585
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,22,1,121999034
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,22,2,124735195
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,22,3,119239439
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,22,4,120365783
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,22,5,120179605
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,23,1,118318949
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,23,2,117220096
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,23,3,116857140
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,23,4,116520650
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,23,5,115507048
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,24,1,124302341
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,24,2,119427186
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,24,3,111447600
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,24,4,111431714
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,24,5,112191920
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,25,1,125587281
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,25,2,129333383
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,25,3,125837242
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,25,4,124791036
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,25,5,122596850
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,26,1,123824761
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,26,2,119997782
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,26,3,134354748
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,26,4,120522593
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,26,5,119696094
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,27,1,121410177
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,27,2,121883168
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,27,3,119686991
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,27,4,116045504
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,27,5,124792465
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,28,1,114892757
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,28,2,116926797
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,28,3,128829283
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,28,4,115497979
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,28,5,117606281
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,29,1,123772827
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,29,2,124006827
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,29,3,128954933
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,29,4,123615483
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,29,5,122020657
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,30,1,127973255
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,30,2,117196039
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,30,3,119635357
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,30,4,121785624
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,30,5,119110586
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,31,1,118660092
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,31,2,121925714
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,31,3,120759556
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,31,4,123583757
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,31,5,126267907
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,32,1,122423971
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,32,2,118652056
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,32,3,118683045
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,32,4,127533758
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,32,5,117199352
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,33,1,121855165
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,33,2,122225214
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,33,3,118853190
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,33,4,122759171
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,33,5,119648694
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,34,1,119352733
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,34,2,117416824
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,34,3,123127002
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,34,4,117621968
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,34,5,120371028
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,35,1,123622386
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,35,2,118986263
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,35,3,116134274
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,35,4,116846165
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,35,5,120463352
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,36,1,120430484
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,36,2,114002712
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,36,3,126427088
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,36,4,114365828
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,36,5,115409919
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,37,1,121235501
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,37,2,152830896
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,37,3,118448379
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,37,4,122512135
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,37,5,130472658
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,38,1,120697322
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,38,2,118112871
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,38,3,123623564
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,38,4,119498346
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,38,5,119476034
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,39,1,124339486
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,39,2,117294456
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,39,3,120130446
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,39,4,118398703
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,39,5,121943933
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,40,1,121088004
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,40,2,122174145
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,40,3,119632641
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,40,4,117900161
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,40,5,113479799
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,41,1,119538657
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,41,2,136220508
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,41,3,118328976
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,41,4,124960743
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,41,5,122105671
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,42,1,118356027
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,42,2,119670342
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,42,3,128258386
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,42,4,119267883
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,42,5,118977164
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,43,1,119342147
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,43,2,114733417
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,43,3,115901186
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,43,4,117507586
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,43,5,126482552
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,44,1,114801929
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,44,2,120772526
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,44,3,123467658
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,44,4,120603733
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,44,5,121775130
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,45,1,119154840
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,45,2,120229129
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,45,3,120412367
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,45,4,119333683
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,45,5,118576681
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,46,1,121606653
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,46,2,118542140
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,46,3,117197272
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,46,4,120554266
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,46,5,120395008
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,47,1,122490766
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,47,2,116407867
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,47,3,119295039
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,47,4,117924667
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,47,5,117446443
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,48,1,114611559
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,48,2,114729530
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,48,3,122056140
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,48,4,121847981
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,48,5,118419132
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,49,1,119776470
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,49,2,121474648
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,49,3,118151558
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,49,4,119606947
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,49,5,118302554
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,50,1,122186807
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,50,2,120135545
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,50,3,119672262
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,50,4,119032037
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,50,5,113727901
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,51,1,116817692
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,51,2,116800869
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,51,3,115639824
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,51,4,117966432
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,51,5,121321236
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,52,1,121806802
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,52,2,118993650
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,52,3,118367361
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,52,4,115490291
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,52,5,120424844
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,53,1,114964475
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,53,2,130720116
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,53,3,126906198
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,53,4,119053802
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,53,5,119457368
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,54,1,117213942
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,54,2,118095709
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,54,3,115303154
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,54,4,114126875
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,54,5,118193368
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,55,1,120053771
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,55,2,121678343
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,55,3,119107305
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,55,4,124596456
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,55,5,120230090
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,56,1,142272445
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,56,2,114959956
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,56,3,118289237
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,56,4,119961836
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,56,5,118219401
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,57,1,118878257
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,57,2,120687859
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,57,3,119214826
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,57,4,122521504
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,57,5,118194393
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,58,1,122773899
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,58,2,129864749
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,58,3,122461604
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,58,4,123193265
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,58,5,121905019
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,59,1,118196927
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,59,2,118490687
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,59,3,119050855
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,59,4,118516317
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,59,5,116911316
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,60,1,113336029
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,60,2,120533822
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,60,3,121604671
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,60,4,130332099
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,60,5,125214504
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,61,1,122831460
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,61,2,119856380
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,61,3,115527663
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,61,4,128573698
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,61,5,119806923
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,62,1,119210029
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,62,2,120935500
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,62,3,120130628
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,62,4,128468054
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,62,5,117726560
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,63,1,119722016
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,63,2,127077384
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,63,3,118560306
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,63,4,122096605
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,63,5,120682429
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,64,1,120867419
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,64,2,121777054
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,64,3,120091157
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,64,4,119123504
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,64,5,123668129
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,65,1,123141938
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,65,2,122372364
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,65,3,116673271
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,65,4,126905874
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,65,5,118474991
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,66,1,126016297
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,66,2,123650134
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,66,3,121010698
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,66,4,120993143
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,66,5,121585413
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,67,1,119310273
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,67,2,119673952
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,67,3,118586248
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,67,4,117776968
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,67,5,121292361
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,68,1,119975414
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,68,2,122067978
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,68,3,113215557
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,68,4,118960148
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,68,5,121954758
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,69,1,116631045
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,69,2,123019279
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,69,3,118633814
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,69,4,120289655
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,69,5,120438917
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,70,1,119009577
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,70,2,118901953
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,70,3,133361440
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,70,4,122788818
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,70,5,116820333
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,71,1,121400173
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,71,2,119933286
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,71,3,120127948
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,71,4,116664272
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,71,5,118636779
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,72,1,118666988
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,72,2,116285534
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,72,3,118467853
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,72,4,120452530
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,72,5,122840972
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,73,1,124779410
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,73,2,117383293
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,73,3,118214566
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,73,4,119118718
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,73,5,122681465
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,74,1,116530984
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,74,2,120664838
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,74,3,121908584
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,74,4,123129998
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,74,5,122042429
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,75,1,130564589
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,75,2,129676972
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,75,3,113875379
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,75,4,116478442
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,75,5,120173866
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,76,1,123186902
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,76,2,120819567
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,76,3,120292611
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,76,4,123963189
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,76,5,121347583
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,77,1,120695893
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,77,2,120488628
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,77,3,117966443
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,77,4,117598419
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,77,5,130073767
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,78,1,120154409
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,78,2,117663377
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,78,3,119974544
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,78,4,114422444
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,78,5,122753142
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,79,1,123461270
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,79,2,119196168
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,79,3,122094528
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,79,4,118473867
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,79,5,122517400
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,80,1,132729464
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,80,2,122315214
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,80,3,119620786
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,80,4,123019435
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,80,5,133866646
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,81,1,123972291
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,81,2,128649457
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,81,3,122475097
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,81,4,121318623
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,81,5,120486240
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,82,1,123122516
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,82,2,118588797
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,82,3,124285941
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,82,4,133654009
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,82,5,119264906
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,83,1,122314377
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,83,2,118239934
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,83,3,121696527
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,83,4,121164632
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,83,5,121122062
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,84,1,122238189
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,84,2,123268824
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,84,3,118376274
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,84,4,121115134
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,84,5,126597072
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,85,1,122146890
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,85,2,120660663
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,85,3,116405239
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,85,4,119428073
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,85,5,123016734
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,86,1,119625537
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,86,2,117286610
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,86,3,118861054
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,86,4,122635229
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,86,5,121071208
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,87,1,120608787
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,87,2,118409198
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,87,3,132112005
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,87,4,119548853
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,87,5,117808382
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,88,1,123986431
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,88,2,115734112
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,88,3,119248230
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,88,4,127941944
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,88,5,118314393
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,89,1,118469844
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,89,2,121166566
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,89,3,124634601
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,89,4,124579169
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,89,5,119216638
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,90,1,124701273
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,90,2,122821126
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,90,3,119291440
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,90,4,118534422
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,90,5,120318868
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,91,1,127062584
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,91,2,124904561
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,91,3,128339841
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,91,4,120936911
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,91,5,120138101
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,92,1,118049034
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,92,2,124371404
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,92,3,122032744
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,92,4,120214014
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,92,5,121210196
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,93,1,120136065
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,93,2,119464487
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,93,3,114989500
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,93,4,119334997
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,93,5,121227723
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,94,1,118438741
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,94,2,120758996
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,94,3,119113918
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,94,4,121950996
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,94,5,132286127
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,95,1,121652555
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,95,2,122210868
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,95,3,125077979
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,95,4,151424446
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,95,5,119674863
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,96,1,119197404
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,96,2,117386003
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,96,3,117684197
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,96,4,124207608
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,96,5,122852169
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,97,1,131615881
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,97,2,119940168
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,97,3,124370189
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,97,4,116916416
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,97,5,122191577
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,98,1,120112816
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,98,2,122994812
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,98,3,123833704
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,98,4,122493001
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,98,5,121941773
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,99,1,121453242
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,99,2,121548842
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,99,3,123224413
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,99,4,119189969
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,99,5,119212031
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,100,1,124085060
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,100,2,119751833
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,100,3,148564510
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,100,4,120995255
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,100,5,120461836
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,101,1,117377984
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,101,2,118449778
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,101,3,118585183
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,101,4,121482605
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,101,5,119544213
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,102,1,118139177
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,102,2,124417690
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,102,3,123077694
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,102,4,119546219
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,102,5,124333886
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,103,1,119155448
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,103,2,120126737
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,103,3,124789161
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,103,4,119634418
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,103,5,122387454
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,104,1,122661029
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,104,2,125493203
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,104,3,122969533
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,104,4,126738845
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,104,5,127533359
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,105,1,119957698
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,105,2,129677266
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,105,3,119235715
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,105,4,122628985
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,105,5,126033344
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,106,1,123281969
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,106,2,126103323
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,106,3,120719160
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,106,4,124163568
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,106,5,122821763
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,107,1,120213347
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,107,2,123702944
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,107,3,122076776
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,107,4,120967310
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,107,5,124425923
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,108,1,118748059
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,108,2,128972671
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,108,3,119737119
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,108,4,127532630
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,108,5,116929058
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,109,1,120459504
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,109,2,123757121
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,109,3,121889700
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,109,4,123536747
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,109,5,120181005
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,110,1,119170717
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,110,2,123555193
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,110,3,120252867
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,110,4,120559322
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,110,5,124396870
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,111,1,125182569
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,111,2,122627284
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,111,3,121364654
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,111,4,118066198
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,111,5,125544207
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,112,1,123369542
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,112,2,120126212
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,112,3,120977216
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,112,4,125621825
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,112,5,122690189
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,113,1,128546700
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,113,2,121396444
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,113,3,125633856
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,113,4,122264220
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,113,5,125081219
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,114,1,122719121
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,114,2,124313814
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,114,3,118731612
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,114,4,125793057
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,114,5,120458651
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,115,1,119324419
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,115,2,119173530
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,115,3,124483272
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,115,4,132987310
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,115,5,120350059
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,116,1,118308294
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,116,2,124710798
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,116,3,121899777
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,116,4,119107992
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,116,5,121193427
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,117,1,121642850
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,117,2,122425482
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,117,3,118168439
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,117,4,122550844
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,117,5,123476355
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,118,1,121091128
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,118,2,121566518
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,118,3,122742514
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,118,4,120926219
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,118,5,126568485
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,119,1,133943790
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,119,2,125360294
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,119,3,123953259
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,119,4,123434873
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,119,5,118108240
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,120,1,119525376
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,120,2,127419698
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,120,3,137194861
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,120,4,122480094
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,120,5,123570410
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,121,1,121575305
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,121,2,125389783
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,121,3,123843238
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,121,4,120928388
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,121,5,124295444
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,122,1,118984111
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,122,2,125985245
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,122,3,126341475
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,122,4,123040568
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,122,5,126274848
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,123,1,120129546
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,123,2,118518891
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,123,3,118452862
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,123,4,126137218
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,123,5,124919631
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,124,1,123791636
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,124,2,128065306
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,124,3,120994081
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,124,4,124678341
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,124,5,121987795
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,125,1,122530689
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,125,2,143853773
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,125,3,128050169
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,125,4,125072378
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,125,5,124623475
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,126,1,118144274
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,126,2,126761631
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,126,3,130609722
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,126,4,126852408
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,126,5,128423099
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,127,1,129755469
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,127,2,126207206
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,127,3,123858538
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,127,4,123673690
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,127,5,131418129
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,128,1,131888820
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,128,2,119085639
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,128,3,125826822
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,128,4,122580477
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,128,5,123375720
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,129,1,124975681
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,129,2,127363715
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,129,3,118351992
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,129,4,126258088
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,129,5,124709970
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,130,1,131675032
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,130,2,125173685
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,130,3,125142338
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,130,4,124325392
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,130,5,123631300
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,131,1,128886394
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,131,2,123446696
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,131,3,124645811
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,131,4,122565569
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,131,5,122453693
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,132,1,127465179
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,132,2,127204791
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,132,3,123524220
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,132,4,128936254
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,132,5,125673899
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,133,1,125827948
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,133,2,161393725
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,133,3,125716727
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,133,4,123473915
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,133,5,130827344
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,134,1,119857620
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,134,2,125932824
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,134,3,130540332
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,134,4,128327510
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,134,5,130186736
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,135,1,121031396
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,135,2,122031789
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,135,3,122317078
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,135,4,120772073
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,135,5,123877916
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,136,1,123650914
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,136,2,124651522
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,136,3,124133038
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,136,4,127277914
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,136,5,124231001
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,137,1,121660180
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,137,2,124770616
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,137,3,126600519
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,137,4,125873048
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,137,5,123915786
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,138,1,123214991
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,138,2,124233327
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,138,3,124088966
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,138,4,124663684
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,138,5,122563867
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,139,1,124999207
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,139,2,125435930
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,139,3,123264663
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,139,4,122844304
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,139,5,122518299
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,140,1,121774170
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,140,2,126007726
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,140,3,124646653
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,140,4,121045568
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,140,5,122209408
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,141,1,147285262
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,141,2,139351933
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,141,3,124898816
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,141,4,124642070
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,141,5,124199690
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,142,1,120694066
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,142,2,122528756
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,142,3,124753923
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,142,4,128456427
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,142,5,127608185
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,143,1,127256909
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,143,2,125571852
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,143,3,129909921
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,143,4,134865943
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,143,5,131008602
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,144,1,122627136
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,144,2,124938886
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,144,3,122822810
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,144,4,124960658
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,144,5,128425602
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,145,1,125493782
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,145,2,122992713
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,145,3,125161844
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,145,4,124178115
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,145,5,126693005
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,146,1,144268125
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,146,2,125098682
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,146,3,124620182
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,146,4,120293068
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,146,5,118448025
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,147,1,126790936
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,147,2,123630578
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,147,3,122868016
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,147,4,120917791
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,147,5,124782583
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,148,1,125551790
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,148,2,124683736
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,148,3,126357827
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,148,4,133015651
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,148,5,127009603
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,149,1,121461952
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,149,2,125902311
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,149,3,124892170
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,149,4,124704221
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,149,5,124711756
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,150,1,127269329
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,150,2,122352260
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,150,3,125987944
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,150,4,129829322
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,150,5,127808466
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,151,1,124122488
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,151,2,122360328
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,151,3,124610847
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,151,4,124390698
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,151,5,125129821
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,152,1,126368668
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,152,2,124140265
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,152,3,122162123
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,152,4,120366149
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,152,5,123197467
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,153,1,126032471
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,153,2,125267969
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,153,3,136542437
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,153,4,126423303
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,153,5,120249923
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,154,1,126158556
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,154,2,123698713
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,154,3,127412322
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,154,4,126900738
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,154,5,126340987
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,155,1,131818096
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,155,2,117652225
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,155,3,122780445
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,155,4,123634377
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,155,5,126332036
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,156,1,128427028
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,156,2,131146543
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,156,3,128831531
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,156,4,138357534
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,156,5,123131934
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,157,1,125219366
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,157,2,133091392
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,157,3,128818518
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,157,4,120671064
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,157,5,125089524
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,158,1,123739629
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,158,2,123598644
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,158,3,127517138
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,158,4,123926037
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,158,5,121029126
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,159,1,125322794
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,159,2,127237172
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,159,3,128076007
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,159,4,121311865
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,159,5,129343248
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,160,1,125783572
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,160,2,125744248
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,160,3,126176405
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,160,4,124828148
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,160,5,137353162
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,161,1,124085166
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,161,2,131737951
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,161,3,123017840
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,161,4,124325181
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,161,5,128987505
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,162,1,138774705
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,162,2,126001134
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,162,3,127568951
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,162,4,126287252
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,162,5,121366182
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,163,1,126085889
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,163,2,133426295
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,163,3,122690737
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,163,4,124052874
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,163,5,127254588
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,164,1,128200307
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,164,2,121132126
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,164,3,126813233
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,164,4,134324516
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,164,5,124684160
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,165,1,127774951
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,165,2,124702830
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,165,3,132773134
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,165,4,133445583
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,165,5,121744804
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,166,1,128095076
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,166,2,122537638
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,166,3,125196486
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,166,4,122565389
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,166,5,124710962
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,167,1,126062826
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,167,2,124461896
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,167,3,127269589
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,167,4,121731779
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,167,5,127630637
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,168,1,128095615
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,168,2,130275986
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,168,3,125790830
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,168,4,124718495
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,168,5,125305538
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,169,1,126656509
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,169,2,127188479
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,169,3,133578438
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,169,4,124153798
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,169,5,127870505
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,170,1,126079721
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,170,2,129789085
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,170,3,129932515
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,170,4,134623632
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,170,5,123687754
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,171,1,140509467
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,171,2,126705029
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,171,3,124080375
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,171,4,127728840
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,171,5,129484412
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,172,1,126701872
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,172,2,124841511
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,172,3,126360058
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,172,4,128257319
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,172,5,123909792
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,173,1,133708332
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,173,2,139616138
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,173,3,124209730
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,173,4,121303832
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,173,5,122511518
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,174,1,127105198
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,174,2,127968804
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,174,3,128421000
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,174,4,127922395
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,174,5,126533953
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,175,1,125842065
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,175,2,122736423
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,175,3,120225641
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,175,4,125292497
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,175,5,126230305
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,176,1,120861899
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,176,2,126307749
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,176,3,129090318
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,176,4,126969960
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,176,5,131338716
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,177,1,126523407
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,177,2,126378303
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,177,3,127015637
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,177,4,120766352
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,177,5,140286926
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,178,1,140858456
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,178,2,127536281
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,178,3,121613288
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,178,4,120540689
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,178,5,126051704
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,179,1,136190457
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,179,2,129420557
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,179,3,129101326
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,179,4,131342337
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,179,5,127799073
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,180,1,126152823
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,180,2,126366113
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,180,3,141215076
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,180,4,142501687
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,180,5,132010881
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,181,1,125568313
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,181,2,125475516
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,181,3,127376473
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,181,4,129395836
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,181,5,126372270
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,182,1,122428841
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,182,2,120262847
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,182,3,126426161
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,182,4,132304944
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,182,5,125444850
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,183,1,127765661
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,183,2,125860213
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,183,3,129455200
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,183,4,124899448
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,183,5,128681382
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,184,1,126848775
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,184,2,124759066
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,184,3,132212321
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,184,4,129503303
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,184,5,123263436
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,185,1,128871062
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,185,2,126282526
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,185,3,136752829
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,185,4,121049309
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,185,5,123321397
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,186,1,126602530
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,186,2,123467671
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,186,3,125262071
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,186,4,131349298
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,186,5,127568460
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,187,1,125448198
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,187,2,125010118
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,187,3,131410545
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,187,4,124902943
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,187,5,135547182
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,188,1,125537880
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,188,2,126233061
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,188,3,125617254
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,188,4,127943554
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,188,5,123981175
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,189,1,124580160
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,189,2,138789145
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,189,3,127532157
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,189,4,123500857
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,189,5,124179359
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,190,1,128557414
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,190,2,125640146
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,190,3,122285748
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,190,4,127976083
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,190,5,128064113
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,191,1,125946353
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,191,2,125612587
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,191,3,130504850
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,191,4,121139236
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,191,5,128386980
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,192,1,125859181
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,192,2,126981261
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,192,3,128777080
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,192,4,143031178
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,192,5,151017143
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,193,1,127231962
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,193,2,125566692
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,193,3,128513311
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,193,4,121198464
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,193,5,123039356
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,194,1,134669091
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,194,2,126430305
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,194,3,128460740
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,194,4,129741150
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,194,5,127563785
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,195,1,131438292
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,195,2,126519114
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,195,3,128101263
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,195,4,129495552
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,195,5,127232557
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,196,1,132082477
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,196,2,130077300
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,196,3,126399871
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,196,4,139279327
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,196,5,123473121
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,197,1,127042062
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,197,2,128973943
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,197,3,125672937
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,197,4,126195682
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,197,5,122212489
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,198,1,121890617
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,198,2,126930624
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,198,3,125945291
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,198,4,126515401
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,198,5,126501245
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,199,1,126844065
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,199,2,131056180
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,199,3,136089584
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,199,4,135245311
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,199,5,127343440
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,200,1,134135126
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,200,2,126397632
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,200,3,125687198
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,200,4,130923812
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,200,5,126963207
